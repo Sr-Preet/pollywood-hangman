@@ -15,7 +15,6 @@ This is a Pollywood spinoff of the [Hollywood Hangman](https://www.hollywoodhang
 - Mark Harless, who has done the most amount of work to create the Hollywood Hangman. I've modified his source code to make the Pollywood version. All the fonts,
   typography and other UI elements in the web application are the same as in the original application.
 - [Freepik](https://www.flaticon.com/authors/freepik) from www.flaticon.com for the Pollywood favicon
-- [FingR Vector Art Tutorials](https://www.pinterest.com/pin/792985446879226429/) for the vector art for Amitabh Bachchan
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
