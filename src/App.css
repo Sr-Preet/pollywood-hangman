@@ -1,0 +1,20 @@
+.simple-keyboard.hg-theme-default.myTheme {
+  background-color: #eaddcf;
+  color: #020826;
+  font-family: "Roboto Mono", monospace;
+  position: fixed;
+  bottom: 0;
+  margin: -1rem 0 0 -1rem;
+}
+
+.correct-letter {
+  color: #f25042;
+  font-weight: bold;
+}
+
+.incorrect-letter {
+  color: #f25042;
+  text-decoration: black line-through;
+  text-decoration-thickness: 2px;
+  font-weight: bold;
+}
