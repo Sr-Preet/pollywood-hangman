@@ -1,474 +1,2613 @@
 [
-  {
-    "Title": "Carry On Jatta",
-    "Year": "2012",
-    "Director": "Smeep Kang",
-    "Plot": "Jass falls in love with Mahie who wants to marry an orphan, so he lies to her and tells her he has no family, and finds himself in hilarious situations when he has to hide the truth once they get married.",
-    "imdbID": "tt2327251",
-    "Actors": "Gippy Grewal, Mahie Gill, Gurpreet Ghuggi, Binnu Dhillon"
-  },
-  {
-    "Title": "Angrej",
-    "Year": "2015",
-    "Director": "Simerjit Singh",
-    "Plot": "A thoughtful young man struggles to find a woman to marry.",
-    "imdbID": "tt4846952",
-    "Actors": "Amrinder Gill, Sargun Mehta, Aditi Sharma, Binnu Dhillon"
-  },
-  {
-    "Title": "Sardaar Ji",
-    "Year": "2015",
-    "Director": "Rohit Jugraj",
-    "Plot": "A ghost hunter uses bottles to capture troublesome spirits.",
-    "imdbID": "tt4900716",
-    "Actors": "Diljit Dosanjh, Neeru Bajwa, Mandy Takhar, Jaswinder Bhalla"
-  },
-  {
-    "Title": "Ambarsariya",
-    "Year": "2016",
-    "Director": "Mandeep Kumar",
-    "Plot": "A secret agent who is posing as an insurance salesman tries to find an assassin, while also trying to juggle three women.",
-    "imdbID": "tt5638474",
-    "Actors": "Diljit Dosanjh, Monica Gill, Navneet Kaur Dhillon, Lauren Gottlieb"
-  },
-  {
-    "Title": "Qismat",
-    "Year": "2018",
-    "Director": "Jagdeep Sidhu",
-    "Plot": "A young man falls in love with a woman, but their lives are complicated by the secrets of their past.",
-    "imdbID": "tt8826404",
-    "Actors": "Ammy Virk, Sargun Mehta, Guggu Gill, Tania"
-  },
-  {
-    "Title": "Lahoriye",
-    "Year": "2017",
-    "Director": "Amberdeep Singh",
-    "Plot": "A young man from a farming family falls in love with a Pakistani girl, but the tension between their countries creates obstacles for their relationship.",
-    "imdbID": "tt6878484",
-    "Actors": "Amrinder Gill, Sargun Mehta, Yuvraj Hans, Nimrat Khaira"
-  },
-  {
-    "Title": "Rabb Da Radio",
-    "Year": "2017",
-    "Director": "Tarnvir Singh Jagpal, Harry Bhatti",
-    "Plot": "The film is a family drama based on the lives of two brothers who reunite after a long time and face challenges from the past.",
-    "imdbID": "tt6747818",
-    "Actors": "Tarsem Jassar, Simi Chahal, Mandy Takhar, Nirmal Rishi"
-  },
-  {
-    "Title": "Jatt & Juliet",
-    "Year": "2012",
-    "Director": "Anurag Singh",
-    "Plot": "A young woman falls in love with a goon, but to marry him, she needs to convince her conservative parents.",
-    "imdbID": "tt2140465",
-    "Actors": "Diljit Dosanjh, Neeru Bajwa, Jaswinder Bhalla, Upasna Singh"
-  },
-  {
-    "Title": "Laung Laachi",
-    "Year": "2018",
-    "Director": "Amberdeep Singh",
-    "Plot": "A newly married woman is shocked to discover that her husband has been secretly in love with another woman.",
-    "imdbID": "tt8249696",
-    "Actors": "Ammy Virk, Neeru Bajwa, Amberdeep Singh, Amrit Maan"
-  },
-  {
-    "Title": "Manje Bistre",
-    "Year": "2017",
-    "Director": "Baljit Singh Deo",
-    "Plot": "While on a visit to his village for a wedding, a man tries to impress his future in-laws but ends up creating havoc.",
-    "imdbID": "tt6527426",
-    "Actors": "Gippy Grewal, Sonam Bajwa, Karamjit Anmol, Gurpreet Ghuggi"
-  },
-  {
-    "Title": "Chal Mera Putt",
-    "Year": "2019",
-    "Director": "Janjot Singh",
-    "Plot": "A group of illegal immigrants living in the UK face challenges while trying to earn money and deal with their visa status.",
-    "imdbID": "tt10591684",
-    "Actors": "Amrinder Gill, Simi Chahal, Iftikhar Thakur, Nasir Chinyoti"
-  },
-  {
-    "Title": "Nikka Zaildar",
-    "Year": "2016",
-    "Director": "Simerjit Singh",
-    "Plot": "A young man is forced to marry a woman against his will, and he tries to find a way to escape the situation.",
-    "imdbID": "tt6185168",
-    "Actors": "Ammy Virk, Sonam Bajwa, Karamjit Anmol, Nirmal Rishi"
-  },
-  {
-    "Title": "Sajjan Singh Rangroot",
-    "Year": "2018",
-    "Director": "Pankaj Batra",
-    "Plot": "A soldier in the British Indian Army faces challenges and forms a bond with his fellow soldiers during World War I.",
-    "imdbID": "tt8021276",
-    "Actors": "Diljit Dosanjh, Yograj Singh, Sunanda Sharma, Jagjeet Sandhu"
-  },
-  {
-    "Title": "Daana Paani",
-    "Year": "2018",
-    "Director": "Tarnvir Singh Jagpal",
-    "Plot": "A love story set in the backdrop of India-Pakistan partition in 1962.",
-    "imdbID": "tt8012052",
-    "Actors": "Jimmy Sheirgill, Simi Chahal, Gurpreet Ghuggi, Nirmal Rishi"
-  },
-  {
-    "Title": "Qissa Panjab",
-    "Year": "2015",
-    "Director": "Jatinder Mauhar",
-    "Plot": "The lives of six individuals get intertwined in the urban backdrop of modern-day Punjab.",
-    "imdbID": "tt4937810",
-    "Actors": "Preet Bhulla, Kul Sidhu, Dheeraj Kumar, Jagjeet Sandhu"
-  },
-  {
-    "Title": "Vekh Baraatan Challiyan",
-    "Year": "2017",
-    "Director": "Ksshitij Chaudhary",
-    "Plot": "Two families have different views on marriage, and their children decide to get married against their parents' wishes, leading to humorous and dramatic situations.",
-    "imdbID": "tt7048082",
-    "Actors": "Binnu Dhillon, Kavita Kaushik, Karamjit Anmol, Jaswinder Bhalla"
-  },
-  {
-    "Title": "Goreyan Nu Daffa Karo",
-    "Year": "2014",
-    "Director": "Pankaj Batra",
-    "Plot": "A young man falls in love with a girl from a rival village and faces opposition from their families.",
-    "imdbID": "tt3679060",
-    "Actors": "Amrinder Gill, Binnu Dhillon, Yograj Singh, Rana Ranbir"
-  },
-  {
-    "Title": "Sufna",
-    "Year": "2020",
-    "Director": "Jagdeep Sidhu",
-    "Plot": "A young man's life changes when he falls in love with a village girl and faces challenges to win her over.",
-    "imdbID": "tt10748042",
-    "Actors": "Ammy Virk, Tania, Jagjeet Sandhu, Balwinder Bullet"
-  },
-  {
-    "Title": "Jindua",
-    "Year": "2017",
-    "Director": "Navaniat Singh",
-    "Plot": "A young man falls in love with a woman who is already engaged to someone else, and they face challenges to be together.",
-    "imdbID": "tt6550886",
-    "Actors": "Jimmy Sheirgill, Neeru Bajwa, Sargun Mehta, Rajiv Thakur"
-  },
-  {
-    "Title": "Sajjan Singh Rangroot",
-    "Year": "2018",
-    "Director": "Pankaj Batra",
-    "Plot": "A soldier in the British Indian Army faces challenges and forms a bond with his fellow soldiers during World War I.",
-    "imdbID": "tt8021276",
-    "Actors": "Diljit Dosanjh, Yograj Singh, Sunanda Sharma, Jagjeet Sandhu"
-  },
-  {
-    "Title": "Qismat",
-    "Year": "2018",
-    "Director": "Jagdeep Sidhu",
-    "Plot": "A young man falls in love with a woman, but their lives are complicated by the secrets of their past.",
-    "imdbID": "tt8826404",
-    "Actors": "Ammy Virk, Sargun Mehta, Guggu Gill, Tania"
-  },
-  {
-    "Title": "Laung Laachi",
-    "Year": "2018",
-    "Director": "Amberdeep Singh",
-    "Plot": "A newly married woman is shocked to discover that her husband has been secretly in love with another woman.",
-    "imdbID": "tt8249696",
-    "Actors": "Ammy Virk, Neeru Bajwa, Amberdeep Singh, Amrit Maan"
-  },
-  {
-    "Title": "Jatt & Juliet",
-    "Year": "2012",
-    "Director": "Anurag Singh",
-    "Plot": "A young woman falls in love with a goon, but to marry him, she needs to convince her conservative parents.",
-    "imdbID": "tt2140465",
-    "Actors": "Diljit Dosanjh, Neeru Bajwa, Jaswinder Bhalla, Upasna Singh"
-  },
-  {
-    "Title": "Ambarsariya",
-    "Year": "2016",
-    "Director": "Mandeep Kumar",
-    "Plot": "A secret agent who is posing as an insurance salesman tries to find an assassin, while also trying to juggle three women.",
-    "imdbID": "tt5638474",
-    "Actors": "Diljit Dosanjh, Monica Gill, Navneet Kaur Dhillon, Lauren Gottlieb"
-  },
-  {
-    "Title": "Carry On Jatta",
-    "Year": "2012",
-    "Director": "Smeep Kang",
-    "Plot": "Jass falls in love with Mahie who wants to marry an orphan, so he lies to her and tells her he has no family, and finds himself in hilarious situations when he has to hide the truth once they get married.",
-    "imdbID": "tt2327251",
-    "Actors": "Gippy Grewal, Mahie Gill, Gurpreet Ghuggi, Binnu Dhillon"
-  },
-  {
-    "Title": "Qismat 2",
-    "Year": "2021",
-    "Director": "Jagdeep Sidhu",
-    "Plot": "The sequel to the hit film 'Qismat'. It follows the love story of a young couple and the challenges they face.",
-    "imdbID": "tt13323636",
-    "Actors": "Ammy Virk, Sargun Mehta, Tania, Garry Sandhu"
-  },
-  {
-    "Title": "Nikka Zaildar 2",
-    "Year": "2017",
-    "Director": "Simerjit Singh",
-    "Plot": "A young man's life turns upside down when he gets married to a woman who seems to have ulterior motives.",
-    "imdbID": "tt7068084",
-    "Actors": "Ammy Virk, Sonam Bajwa, Wamiqa Gabbi, Nirmal Rishi"
-  },
-  {
-    "Title": "Muklawa",
-    "Year": "2019",
-    "Director": "Simerjit Singh",
-    "Plot": "A newly married couple is unable to consummate their marriage due to a family tradition, and they face challenges to be together.",
-    "imdbID": "tt10179012",
-    "Actors": "Ammy Virk, Sonam Bajwa, Sarbjit Cheema, Gurpreet Ghuggi"
-  },
-  {
-    "Title": "Carry on Jatta 2",
-    "Year": "2018",
-    "Director": "Smeep Kang",
-    "Plot": "A young man's life turns upside down when his past catches up with him and creates chaos in his love life.",
-    "imdbID": "tt8208990",
-    "Actors": "Gippy Grewal, Sonam Bajwa, Binnu Dhillon, Jaswinder Bhalla"
-  },
-  {
-    "Title": "Jindua",
-    "Year": "2017",
-    "Director": "Navaniat Singh",
-    "Plot": "A young man falls in love with a woman who is already engaged to someone else, and they face challenges to be together.",
-    "imdbID": "tt6550886",
-    "Actors": "Jimmy Sheirgill, Neeru Bajwa, Sargun Mehta, Rajiv Thakur"
-  },
-  {
-    "Title": "Bhaji in Problem",
-    "Year": "2013",
-    "Director": "Smeep Kang",
-    "Plot": "A man gets entangled in a complex web of lies when he pretends to be married in order to get a job.",
-    "imdbID": "tt3246116",
-    "Actors": "Gippy Grewal, Misha Bajwa, Karamjit Anmol, Gurpreet Ghuggi"
-  },
-  {
-    "Title": "Carry on Jatta",
-    "Year": "2012",
-    "Director": "Smeep Kang",
-    "Plot": "Jass falls in love with Mahie who wants to marry an orphan, so he lies to her and tells her he has no family, and finds himself in hilarious situations when he has to hide the truth once they get married.",
-    "imdbID": "tt2327251",
-    "Actors": "Gippy Grewal, Mahie Gill, Gurpreet Ghuggi, Binnu Dhillon"
-  },
-  {
-    "Title": "Sardaarji 2",
-    "Year": "2016",
-    "Director": "Rohit Jugraj",
-    "Plot": "A ghost hunter gets into trouble when his ex-girlfriend seeks his help to get rid of an evil spirit.",
-    "imdbID": "tt5354384",
-    "Actors": "Diljit Dosanjh, Sonam Bajwa, Monica Gill, Jaswinder Bhalla"
-  },
-  {
-    "Title": "Nikka Zaildar",
-    "Year": "2016",
-    "Director": "Simerjit Singh",
-    "Plot": "A young man is forced to marry a woman against his will, and he tries to find a way to escape the situation.",
-    "imdbID": "tt6185168",
-    "Actors": "Ammy Virk, Sonam Bajwa, Karamjit Anmol, Nirmal Rishi"
-  },
-  {
-    "Title": "Manje Bistre",
-    "Year": "2017",
-    "Director": "Baljit Singh Deo",
-    "Plot": "While on a visit to his village for a wedding, a man tries to impress his future in-laws but ends up creating havoc.",
-    "imdbID": "tt6527426",
-    "Actors": "Gippy Grewal, Sonam Bajwa, Karamjit Anmol, Gurpreet Ghuggi"
-  },
-  {
-    "Title": "Lahoriye",
-    "Year": "2017",
-    "Director": "Amberdeep Singh",
-    "Plot": "A young man from a farming family falls in love with a Pakistani girl, but the tension between their countries creates obstacles for their relationship.",
-    "imdbID": "tt6878484",
-    "Actors": "Amrinder Gill, Sargun Mehta, Yuvraj Hans, Nimrat Khaira"
-  },
-  {
-    "Title": "Daana Paani",
-    "Year": "2018",
-    "Director": "Tarnvir Singh Jagpal",
-    "Plot": "A love story set in the backdrop of India-Pakistan partition in 1962.",
-    "imdbID": "tt8012052",
-    "Actors": "Jimmy Sheirgill, Simi Chahal, Gurpreet Ghuggi, Nirmal Rishi"
-  },
-  {
-    "Title": "Vekh Baraatan Challiyan",
-    "Year": "2017",
-    "Director": "Ksshitij Chaudhary",
-    "Plot": "Two families have different views on marriage, and their children decide to get married against their parents' wishes, leading to humorous and dramatic situations.",
-    "imdbID": "tt7048082",
-    "Actors": "Binnu Dhillon, Kavita Kaushik, Karamjit Anmol, Jaswinder Bhalla"
-  },
-  {
-    "Title": "Goreyan Nu Daffa Karo",
-    "Year": "2014",
-    "Director": "Pankaj Batra",
-    "Plot": "A young man falls in love with a girl from a rival village and faces opposition from their families.",
-    "imdbID": "tt3679060",
-    "Actors": "Amrinder Gill, Binnu Dhillon, Yograj Singh, Rana Ranbir"
-  },
-  {
-    "Title": "Jatt & Juliet 2",
-    "Year": "2013",
-    "Director": "Anurag Singh",
-    "Plot": "A newly married couple faces challenges when they move to Canada and try to settle into their new life.",
-    "imdbID": "tt3024946",
-    "Actors": "Diljit Dosanjh, Neeru Bajwa, Jaswinder Bhalla, Binnu Dhillon"
-  },
-  {
-    "Title": "Ardaas Karaan",
-    "Year": "2019",
-    "Director": "Gippy Grewal",
-    "Plot": "Three elderly men set out on a journey to meet their children and discover the true meaning of life.",
-    "imdbID": "tt10324102",
-    "Actors": "Gurpreet Ghuggi, Sapna Pabbi, Malkeet Rauni, Rana Ranbir"
-  },
-  {
-    "Title": "Sufna",
-    "Year": "2020",
-    "Director": "Jagdeep Sidhu",
-    "Plot": "A young man's life changes when he falls in love with a village girl and faces challenges to win her over.",
-    "imdbID": "tt10748042",
-    "Actors": "Ammy Virk, Tania, Jagjeet Sandhu, Balwinder Bullet"
-  },
-  {
-    "Title": "Qismat",
-    "Year": "2018",
-    "Director": "Jagdeep Sidhu",
-    "Plot": "A young man falls in love with a woman, but their lives are complicated by the secrets of their past.",
-    "imdbID": "tt8826404",
-    "Actors": "Ammy Virk, Sargun Mehta, Guggu Gill, Tania"
-  },
-  {
-    "Title": "Laung Laachi",
-    "Year": "2018",
-    "Director": "Amberdeep Singh",
-    "Plot": "A newly married woman is shocked to discover that her husband has been secretly in love with another woman.",
-    "imdbID": "tt8249696",
-    "Actors": "Ammy Virk, Neeru Bajwa, Amberdeep Singh, Amrit Maan"
-  },
-  {
-    "Title": "Qismat 2",
-    "Year": "2021",
-    "Director": "Jagdeep Sidhu",
-    "Plot": "The sequel to the hit film 'Qismat'. It follows the love story of a young couple and the challenges they face.",
-    "imdbID": "tt13323636",
-    "Actors": "Ammy Virk, Sargun Mehta, Tania, Garry Sandhu"
-  },
-  {
-    "Title": "Nikka Zaildar 2",
-    "Year": "2017",
-    "Director": "Simerjit Singh",
-    "Plot": "A young man's life turns upside down when he gets married to a woman who seems to have ulterior motives.",
-    "imdbID": "tt7068084",
-    "Actors": "Ammy Virk, Sonam Bajwa, Wamiqa Gabbi, Nirmal Rishi"
-  },
-  {
-    "Title": "Muklawa",
-    "Year": "2019",
-    "Director": "Simerjit Singh",
-    "Plot": "A newly married couple is unable to consummate their marriage due to a family tradition, and they face challenges to be together.",
-    "imdbID": "tt10179012",
-    "Actors": "Ammy Virk, Sonam Bajwa, Sarbjit Cheema, Gurpreet Ghuggi"
-  },
-  {
-    "Title": "Carry on Jatta 2",
-    "Year": "2018",
-    "Director": "Smeep Kang",
-    "Plot": "A young man's life turns upside down when his past catches up with him and creates chaos in his love life.",
-    "imdbID": "tt8208990",
-    "Actors": "Gippy Grewal, Sonam Bajwa, Binnu Dhillon, Jaswinder Bhalla"
-  },
-  {
-    "Title": "Ardaas",
-    "Year": "2016",
-    "Director": "Gippy Grewal",
-    "Plot": "A man comes back to his village and unites the community through his prayers.",
-    "imdbID": "tt5087996",
-    "Actors": "Ammy Virk, Gurpreet Ghuggi, B.N. Sharma, Rana Ranbir"
-  },
-  {
-    "Title": "Jatt & Juliet",
-    "Year": "2012",
-    "Director": "Anurag Singh",
-    "Plot": "A young woman falls in love with a goon, but to marry him, she needs to convince her conservative parents.",
-    "imdbID": "tt2140465",
-    "Actors": "Diljit Dosanjh, Neeru Bajwa, Jaswinder Bhalla, Upasna Singh"
-  },
-  {
-    "Title": "Angrej",
-    "Year": "2015",
-    "Director": "Simerjit Singh",
-    "Plot": "A thoughtful young man struggles to find a woman to marry.",
-    "imdbID": "tt4846952",
-    "Actors": "Amrinder Gill, Sargun Mehta, Aditi Sharma, Binnu Dhillon"
-  },
-  {
-    "Title": "Guddiyan Patole",
-    "Year": "2019",
-    "Director": "Vijay Kumar Arora",
-    "Plot": "Two sisters visit their maternal family in Punjab and fall in love with local boys.",
-    "imdbID": "tt9407028",
-    "Actors": "Gurnam Bhullar, Sonam Bajwa, Tania, Nirmal Rishi"
-  },
-  {
-    "Title": "Laavaan Phere",
-    "Year": "2018",
-    "Director": "Smeep Kang",
-    "Plot": "A young man is unable to get married due to a family curse, and he seeks the help of a wedding planner to break the curse.",
-    "imdbID": "tt7912212",
-    "Actors": "Roshan Prince, Rubina Bajwa, Karamjit Anmol, B.N. Sharma"
-  },
-  {
-    "Title": "Sajjan Singh Rangroot",
-    "Year": "2018",
-    "Director": "Pankaj Batra",
-    "Plot": "A soldier in the British Indian Army faces challenges and forms a bond with his fellow soldiers during World War I.",
-    "imdbID": "tt8021276",
-    "Actors": "Diljit Dosanjh, Yograj Singh, Sunanda Sharma, Jagjeet Sandhu"
-  },
-  {
-    "Title": "Chal Mera Putt",
-    "Year": "2019",
-    "Director": "Janjot Singh",
-    "Plot": "A group of illegal immigrants living in the UK face challenges while trying to earn money and deal with their visa status.",
-    "imdbID": "tt10591684",
-    "Actors": "Amrinder Gill, Simi Chahal, Iftikhar Thakur, Nasir Chinyoti"
-  },
-  {
-    "Title": "Nikka Zaildar 3",
-    "Year": "2019",
-    "Director": "Simerjit Singh",
-    "Plot": "Nikka falls in love with a girl, but their families have different views on marriage, leading to humorous and dramatic situations.",
-    "imdbID": "tt10427288",
-    "Actors": "Ammy Virk, Wamiqa Gabbi, Sonia Kaur, Nirmal Rishi"
-  },
-  {
-    "Title": "Mitti Na Pharol Jogiya",
-    "Year": "2015",
-    "Director": "Avtar Singh",
-    "Plot": "A young man's life changes when he decides to stand up against a corrupt politician in his village.",
-    "imdbID": "tt4930574",
-    "Actors": "Kartar Cheema, Amann Grewal, Aman Dhaliwal, Japtej Singh"
-  },
-  {
-    "Title": "Mar Gaye Oye Loko",
-    "Year": "2018",
-    "Director": "Simerjit Singh",
-    "Plot": "A man's soul enters the body of another man, leading to humorous and chaotic situations.",
-    "imdbID": "tt8983164",
-    "Actors": "Gippy Grewal, Binnu Dhillon, Sapna Pabbi, Jaswinder Bhalla"
-  },
-  {
-    "Title": "Arjan",
-    "Year": "2017",
-    "Director": "Manduip Singh",
-    "Plot": "A young man fights against the corrupt education system and tries to bring about positive changes.",
-    "imdbID": "tt6206552",
-    "Actors": "Roshan Prince, Prachi Tehlan, B.N. Sharma, Nirmal Rishi"
-  }
-]
+    {
+      "Title": "Carry On Jatta",
+      "Year": "2012",
+      "Director": "Smeep Kang",
+      "Plot": "Jass falls in love with Mahie who wants to marry an orphan, so he lies to her and tells her he has no family, and finds himself in hilarious situations when he has to hide the truth once they get married.",
+      "imdbID": "tt2327251",
+      "Actors": "Gippy Grewal, Mahie Gill, Gurpreet Ghuggi, Binnu Dhillon"
+    },
+    {
+      "Title": "Angrej",
+      "Year": "2015",
+      "Director": "Simerjit Singh",
+      "Plot": "A thoughtful young man struggles to find a woman to marry.",
+      "imdbID": "tt4846952",
+      "Actors": "Amrinder Gill, Sargun Mehta, Aditi Sharma, Binnu Dhillon"
+    },
+    {
+      "Title": "Sardaar Ji",
+      "Year": "2015",
+      "Director": "Rohit Jugraj",
+      "Plot": "A ghost hunter uses bottles to capture troublesome spirits.",
+      "imdbID": "tt4900716",
+      "Actors": "Diljit Dosanjh, Neeru Bajwa, Mandy Takhar, Jaswinder Bhalla"
+    },
+    {
+      "Title": "Ambarsariya",
+      "Year": "2016",
+      "Director": "Mandeep Kumar",
+      "Plot": "A secret agent who is posing as an insurance salesman tries to find an assassin, while also trying to juggle three women.",
+      "imdbID": "tt5638474",
+      "Actors": "Diljit Dosanjh, Monica Gill, Navneet Kaur Dhillon, Lauren Gottlieb"
+    },
+    {
+      "Title": "Qismat",
+      "Year": "2018",
+      "Director": "Jagdeep Sidhu",
+      "Plot": "A young man falls in love with a woman, but their lives are complicated by the secrets of their past.",
+      "imdbID": "tt8826404",
+      "Actors": "Ammy Virk, Sargun Mehta, Guggu Gill, Tania"
+    },
+    {
+      "Title": "Lahoriye",
+      "Year": "2017",
+      "Director": "Amberdeep Singh",
+      "Plot": "A young man from a farming family falls in love with a Pakistani girl, but the tension between their countries creates obstacles for their relationship.",
+      "imdbID": "tt6878484",
+      "Actors": "Amrinder Gill, Sargun Mehta, Yuvraj Hans, Nimrat Khaira"
+    },
+    {
+      "Title": "Rabb Da Radio",
+      "Year": "2017",
+      "Director": "Tarnvir Singh Jagpal, Harry Bhatti",
+      "Plot": "The film is a family drama based on the lives of two brothers who reunite after a long time and face challenges from the past.",
+      "imdbID": "tt6747818",
+      "Actors": "Tarsem Jassar, Simi Chahal, Mandy Takhar, Nirmal Rishi"
+    },
+    {
+      "Title": "Jatt & Juliet",
+      "Year": "2012",
+      "Director": "Anurag Singh",
+      "Plot": "A young woman falls in love with a goon, but to marry him, she needs to convince her conservative parents.",
+      "imdbID": "tt2140465",
+      "Actors": "Diljit Dosanjh, Neeru Bajwa, Jaswinder Bhalla, Upasna Singh"
+    },
+    {
+      "Title": "Laung Laachi",
+      "Year": "2018",
+      "Director": "Amberdeep Singh",
+      "Plot": "A newly married woman is shocked to discover that her husband has been secretly in love with another woman.",
+      "imdbID": "tt8249696",
+      "Actors": "Ammy Virk, Neeru Bajwa, Amberdeep Singh, Amrit Maan"
+    },
+    {
+      "Title": "Manje Bistre",
+      "Year": "2017",
+      "Director": "Baljit Singh Deo",
+      "Plot": "While on a visit to his village for a wedding, a man tries to impress his future in-laws but ends up creating havoc.",
+      "imdbID": "tt6527426",
+      "Actors": "Gippy Grewal, Sonam Bajwa, Karamjit Anmol, Gurpreet Ghuggi"
+    },
+    {
+      "Title": "Chal Mera Putt",
+      "Year": "2019",
+      "Director": "Janjot Singh",
+      "Plot": "A group of illegal immigrants living in the UK face challenges while trying to earn money and deal with their visa status.",
+      "imdbID": "tt10591684",
+      "Actors": "Amrinder Gill, Simi Chahal, Iftikhar Thakur, Nasir Chinyoti"
+    },
+    {
+      "Title": "Nikka Zaildar",
+      "Year": "2016",
+      "Director": "Simerjit Singh",
+      "Plot": "A young man is forced to marry a woman against his will, and he tries to find a way to escape the situation.",
+      "imdbID": "tt6185168",
+      "Actors": "Ammy Virk, Sonam Bajwa, Karamjit Anmol, Nirmal Rishi"
+    },
+    {
+      "Title": "Sajjan Singh Rangroot",
+      "Year": "2018",
+      "Director": "Pankaj Batra",
+      "Plot": "A soldier in the British Indian Army faces challenges and forms a bond with his fellow soldiers during World War I.",
+      "imdbID": "tt8021276",
+      "Actors": "Diljit Dosanjh, Yograj Singh, Sunanda Sharma, Jagjeet Sandhu"
+    },
+    {
+      "Title": "Daana Paani",
+      "Year": "2018",
+      "Director": "Tarnvir Singh Jagpal",
+      "Plot": "A love story set in the backdrop of India-Pakistan partition in 1962.",
+      "imdbID": "tt8012052",
+      "Actors": "Jimmy Sheirgill, Simi Chahal, Gurpreet Ghuggi, Nirmal Rishi"
+    },
+    {
+      "Title": "Qissa Panjab",
+      "Year": "2015",
+      "Director": "Jatinder Mauhar",
+      "Plot": "The lives of six individuals get intertwined in the urban backdrop of modern-day Punjab.",
+      "imdbID": "tt4937810",
+      "Actors": "Preet Bhulla, Kul Sidhu, Dheeraj Kumar, Jagjeet Sandhu"
+    },
+    {
+      "Title": "Vekh Baraatan Challiyan",
+      "Year": "2017",
+      "Director": "Ksshitij Chaudhary",
+      "Plot": "Two families have different views on marriage, and their children decide to get married against their parents' wishes, leading to humorous and dramatic situations.",
+      "imdbID": "tt7048082",
+      "Actors": "Binnu Dhillon, Kavita Kaushik, Karamjit Anmol, Jaswinder Bhalla"
+    },
+    {
+      "Title": "Goreyan Nu Daffa Karo",
+      "Year": "2014",
+      "Director": "Pankaj Batra",
+      "Plot": "A young man falls in love with a girl from a rival village and faces opposition from their families.",
+      "imdbID": "tt3679060",
+      "Actors": "Amrinder Gill, Binnu Dhillon, Yograj Singh, Rana Ranbir"
+    },
+    {
+      "Title": "Sufna",
+      "Year": "2020",
+      "Director": "Jagdeep Sidhu",
+      "Plot": "A young man's life changes when he falls in love with a village girl and faces challenges to win her over.",
+      "imdbID": "tt10748042",
+      "Actors": "Ammy Virk, Tania, Jagjeet Sandhu, Balwinder Bullet"
+    },
+    {
+      "Title": "Jindua",
+      "Year": "2017",
+      "Director": "Navaniat Singh",
+      "Plot": "A young man falls in love with a woman who is already engaged to someone else, and they face challenges to be together.",
+      "imdbID": "tt6550886",
+      "Actors": "Jimmy Sheirgill, Neeru Bajwa, Sargun Mehta, Rajiv Thakur"
+    },
+    {
+      "Title": "Sajjan Singh Rangroot",
+      "Year": "2018",
+      "Director": "Pankaj Batra",
+      "Plot": "A soldier in the British Indian Army faces challenges and forms a bond with his fellow soldiers during World War I.",
+      "imdbID": "tt8021276",
+      "Actors": "Diljit Dosanjh, Yograj Singh, Sunanda Sharma, Jagjeet Sandhu"
+    },
+    {
+      "Title": "Qismat",
+      "Year": "2018",
+      "Director": "Jagdeep Sidhu",
+      "Plot": "A young man falls in love with a woman, but their lives are complicated by the secrets of their past.",
+      "imdbID": "tt8826404",
+      "Actors": "Ammy Virk, Sargun Mehta, Guggu Gill, Tania"
+    },
+    {
+      "Title": "Laung Laachi",
+      "Year": "2018",
+      "Director": "Amberdeep Singh",
+      "Plot": "A newly married woman is shocked to discover that her husband has been secretly in love with another woman.",
+      "imdbID": "tt8249696",
+      "Actors": "Ammy Virk, Neeru Bajwa, Amberdeep Singh, Amrit Maan"
+    },
+    {
+      "Title": "Jatt & Juliet",
+      "Year": "2012",
+      "Director": "Anurag Singh",
+      "Plot": "A young woman falls in love with a goon, but to marry him, she needs to convince her conservative parents.",
+      "imdbID": "tt2140465",
+      "Actors": "Diljit Dosanjh, Neeru Bajwa, Jaswinder Bhalla, Upasna Singh"
+    },
+    {
+      "Title": "Ambarsariya",
+      "Year": "2016",
+      "Director": "Mandeep Kumar",
+      "Plot": "A secret agent who is posing as an insurance salesman tries to find an assassin, while also trying to juggle three women.",
+      "imdbID": "tt5638474",
+      "Actors": "Diljit Dosanjh, Monica Gill, Navneet Kaur Dhillon, Lauren Gottlieb"
+    },
+    {
+      "Title": "Carry On Jatta",
+      "Year": "2012",
+      "Director": "Smeep Kang",
+      "Plot": "Jass falls in love with Mahie who wants to marry an orphan, so he lies to her and tells her he has no family, and finds himself in hilarious situations when he has to hide the truth once they get married.",
+      "imdbID": "tt2327251",
+      "Actors": "Gippy Grewal, Mahie Gill, Gurpreet Ghuggi, Binnu Dhillon"
+    },
+    {
+      "Title": "Qismat 2",
+      "Year": "2021",
+      "Director": "Jagdeep Sidhu",
+      "Plot": "The sequel to the hit film 'Qismat'. It follows the love story of a young couple and the challenges they face.",
+      "imdbID": "tt13323636",
+      "Actors": "Ammy Virk, Sargun Mehta, Tania, Garry Sandhu"
+    },
+    {
+      "Title": "Nikka Zaildar 2",
+      "Year": "2017",
+      "Director": "Simerjit Singh",
+      "Plot": "A young man's life turns upside down when he gets married to a woman who seems to have ulterior motives.",
+      "imdbID": "tt7068084",
+      "Actors": "Ammy Virk, Sonam Bajwa, Wamiqa Gabbi, Nirmal Rishi"
+    },
+    {
+      "Title": "Muklawa",
+      "Year": "2019",
+      "Director": "Simerjit Singh",
+      "Plot": "A newly married couple is unable to consummate their marriage due to a family tradition, and they face challenges to be together.",
+      "imdbID": "tt10179012",
+      "Actors": "Ammy Virk, Sonam Bajwa, Sarbjit Cheema, Gurpreet Ghuggi"
+    },
+    {
+      "Title": "Carry on Jatta 2",
+      "Year": "2018",
+      "Director": "Smeep Kang",
+      "Plot": "A young man's life turns upside down when his past catches up with him and creates chaos in his love life.",
+      "imdbID": "tt8208990",
+      "Actors": "Gippy Grewal, Sonam Bajwa, Binnu Dhillon, Jaswinder Bhalla"
+    },
+    {
+      "Title": "Jindua",
+      "Year": "2017",
+      "Director": "Navaniat Singh",
+      "Plot": "A young man falls in love with a woman who is already engaged to someone else, and they face challenges to be together.",
+      "imdbID": "tt6550886",
+      "Actors": "Jimmy Sheirgill, Neeru Bajwa, Sargun Mehta, Rajiv Thakur"
+    },
+    {
+      "Title": "Bhaji in Problem",
+      "Year": "2013",
+      "Director": "Smeep Kang",
+      "Plot": "A man gets entangled in a complex web of lies when he pretends to be married in order to get a job.",
+      "imdbID": "tt3246116",
+      "Actors": "Gippy Grewal, Misha Bajwa, Karamjit Anmol, Gurpreet Ghuggi"
+    },
+    {
+      "Title": "Carry on Jatta",
+      "Year": "2012",
+      "Director": "Smeep Kang",
+      "Plot": "Jass falls in love with Mahie who wants to marry an orphan, so he lies to her and tells her he has no family, and finds himself in hilarious situations when he has to hide the truth once they get married.",
+      "imdbID": "tt2327251",
+      "Actors": "Gippy Grewal, Mahie Gill, Gurpreet Ghuggi, Binnu Dhillon"
+    },
+    {
+      "Title": "Sardaarji 2",
+      "Year": "2016",
+      "Director": "Rohit Jugraj",
+      "Plot": "A ghost hunter gets into trouble when his ex-girlfriend seeks his help to get rid of an evil spirit.",
+      "imdbID": "tt5354384",
+      "Actors": "Diljit Dosanjh, Sonam Bajwa, Monica Gill, Jaswinder Bhalla"
+    },
+    {
+      "Title": "Nikka Zaildar",
+      "Year": "2016",
+      "Director": "Simerjit Singh",
+      "Plot": "A young man is forced to marry a woman against his will, and he tries to find a way to escape the situation.",
+      "imdbID": "tt6185168",
+      "Actors": "Ammy Virk, Sonam Bajwa, Karamjit Anmol, Nirmal Rishi"
+    },
+    {
+      "Title": "Manje Bistre",
+      "Year": "2017",
+      "Director": "Baljit Singh Deo",
+      "Plot": "While on a visit to his village for a wedding, a man tries to impress his future in-laws but ends up creating havoc.",
+      "imdbID": "tt6527426",
+      "Actors": "Gippy Grewal, Sonam Bajwa, Karamjit Anmol, Gurpreet Ghuggi"
+    },
+    {
+      "Title": "Lahoriye",
+      "Year": "2017",
+      "Director": "Amberdeep Singh",
+      "Plot": "A young man from a farming family falls in love with a Pakistani girl, but the tension between their countries creates obstacles for their relationship.",
+      "imdbID": "tt6878484",
+      "Actors": "Amrinder Gill, Sargun Mehta, Yuvraj Hans, Nimrat Khaira"
+    },
+    {
+      "Title": "Daana Paani",
+      "Year": "2018",
+      "Director": "Tarnvir Singh Jagpal",
+      "Plot": "A love story set in the backdrop of India-Pakistan partition in 1962.",
+      "imdbID": "tt8012052",
+      "Actors": "Jimmy Sheirgill, Simi Chahal, Gurpreet Ghuggi, Nirmal Rishi"
+    },
+    {
+      "Title": "Vekh Baraatan Challiyan",
+      "Year": "2017",
+      "Director": "Ksshitij Chaudhary",
+      "Plot": "Two families have different views on marriage, and their children decide to get married against their parents' wishes, leading to humorous and dramatic situations.",
+      "imdbID": "tt7048082",
+      "Actors": "Binnu Dhillon, Kavita Kaushik, Karamjit Anmol, Jaswinder Bhalla"
+    },
+    {
+      "Title": "Goreyan Nu Daffa Karo",
+      "Year": "2014",
+      "Director": "Pankaj Batra",
+      "Plot": "A young man falls in love with a girl from a rival village and faces opposition from their families.",
+      "imdbID": "tt3679060",
+      "Actors": "Amrinder Gill, Binnu Dhillon, Yograj Singh, Rana Ranbir"
+    },
+    {
+      "Title": "Jatt & Juliet 2",
+      "Year": "2013",
+      "Director": "Anurag Singh",
+      "Plot": "A newly married couple faces challenges when they move to Canada and try to settle into their new life.",
+      "imdbID": "tt3024946",
+      "Actors": "Diljit Dosanjh, Neeru Bajwa, Jaswinder Bhalla, Binnu Dhillon"
+    },
+    {
+      "Title": "Ardaas Karaan",
+      "Year": "2019",
+      "Director": "Gippy Grewal",
+      "Plot": "Three elderly men set out on a journey to meet their children and discover the true meaning of life.",
+      "imdbID": "tt10324102",
+      "Actors": "Gurpreet Ghuggi, Sapna Pabbi, Malkeet Rauni, Rana Ranbir"
+    },
+    {
+      "Title": "Sufna",
+      "Year": "2020",
+      "Director": "Jagdeep Sidhu",
+      "Plot": "A young man's life changes when he falls in love with a village girl and faces challenges to win her over.",
+      "imdbID": "tt10748042",
+      "Actors": "Ammy Virk, Tania, Jagjeet Sandhu, Balwinder Bullet"
+    },
+    {
+      "Title": "Qismat",
+      "Year": "2018",
+      "Director": "Jagdeep Sidhu",
+      "Plot": "A young man falls in love with a woman, but their lives are complicated by the secrets of their past.",
+      "imdbID": "tt8826404",
+      "Actors": "Ammy Virk, Sargun Mehta, Guggu Gill, Tania"
+    },
+    {
+      "Title": "Laung Laachi",
+      "Year": "2018",
+      "Director": "Amberdeep Singh",
+      "Plot": "A newly married woman is shocked to discover that her husband has been secretly in love with another woman.",
+      "imdbID": "tt8249696",
+      "Actors": "Ammy Virk, Neeru Bajwa, Amberdeep Singh, Amrit Maan"
+    },
+    {
+      "Title": "Qismat 2",
+      "Year": "2021",
+      "Director": "Jagdeep Sidhu",
+      "Plot": "The sequel to the hit film 'Qismat'. It follows the love story of a young couple and the challenges they face.",
+      "imdbID": "tt13323636",
+      "Actors": "Ammy Virk, Sargun Mehta, Tania, Garry Sandhu"
+    },
+    {
+      "Title": "Nikka Zaildar 2",
+      "Year": "2017",
+      "Director": "Simerjit Singh",
+      "Plot": "A young man's life turns upside down when he gets married to a woman who seems to have ulterior motives.",
+      "imdbID": "tt7068084",
+      "Actors": "Ammy Virk, Sonam Bajwa, Wamiqa Gabbi, Nirmal Rishi"
+    },
+    {
+      "Title": "Muklawa",
+      "Year": "2019",
+      "Director": "Simerjit Singh",
+      "Plot": "A newly married couple is unable to consummate their marriage due to a family tradition, and they face challenges to be together.",
+      "imdbID": "tt10179012",
+      "Actors": "Ammy Virk, Sonam Bajwa, Sarbjit Cheema, Gurpreet Ghuggi"
+    },
+    {
+      "Title": "Carry on Jatta 2",
+      "Year": "2018",
+      "Director": "Smeep Kang",
+      "Plot": "A young man's life turns upside down when his past catches up with him and creates chaos in his love life.",
+      "imdbID": "tt8208990",
+      "Actors": "Gippy Grewal, Sonam Bajwa, Binnu Dhillon, Jaswinder Bhalla"
+    },
+    {
+      "Title": "Ardaas",
+      "Year": "2016",
+      "Director": "Gippy Grewal",
+      "Plot": "A man comes back to his village and unites the community through his prayers.",
+      "imdbID": "tt5087996",
+      "Actors": "Ammy Virk, Gurpreet Ghuggi, B.N. Sharma, Rana Ranbir"
+    },
+    {
+      "Title": "Jatt & Juliet",
+      "Year": "2012",
+      "Director": "Anurag Singh",
+      "Plot": "A young woman falls in love with a goon, but to marry him, she needs to convince her conservative parents.",
+      "imdbID": "tt2140465",
+      "Actors": "Diljit Dosanjh, Neeru Bajwa, Jaswinder Bhalla, Upasna Singh"
+    },
+    {
+      "Title": "Angrej",
+      "Year": "2015",
+      "Director": "Simerjit Singh",
+      "Plot": "A thoughtful young man struggles to find a woman to marry.",
+      "imdbID": "tt4846952",
+      "Actors": "Amrinder Gill, Sargun Mehta, Aditi Sharma, Binnu Dhillon"
+    },
+    {
+      "Title": "Guddiyan Patole",
+      "Year": "2019",
+      "Director": "Vijay Kumar Arora",
+      "Plot": "Two sisters visit their maternal family in Punjab and fall in love with local boys.",
+      "imdbID": "tt9407028",
+      "Actors": "Gurnam Bhullar, Sonam Bajwa, Tania, Nirmal Rishi"
+    },
+    {
+      "Title": "Laavaan Phere",
+      "Year": "2018",
+      "Director": "Smeep Kang",
+      "Plot": "A young man is unable to get married due to a family curse, and he seeks the help of a wedding planner to break the curse.",
+      "imdbID": "tt7912212",
+      "Actors": "Roshan Prince, Rubina Bajwa, Karamjit Anmol, B.N. Sharma"
+    },
+    {
+      "Title": "Sajjan Singh Rangroot",
+      "Year": "2018",
+      "Director": "Pankaj Batra",
+      "Plot": "A soldier in the British Indian Army faces challenges and forms a bond with his fellow soldiers during World War I.",
+      "imdbID": "tt8021276",
+      "Actors": "Diljit Dosanjh, Yograj Singh, Sunanda Sharma, Jagjeet Sandhu"
+    },
+    {
+      "Title": "Chal Mera Putt",
+      "Year": "2019",
+      "Director": "Janjot Singh",
+      "Plot": "A group of illegal immigrants living in the UK face challenges while trying to earn money and deal with their visa status.",
+      "imdbID": "tt10591684",
+      "Actors": "Amrinder Gill, Simi Chahal, Iftikhar Thakur, Nasir Chinyoti"
+    },
+    {
+      "Title": "Nikka Zaildar 3",
+      "Year": "2019",
+      "Director": "Simerjit Singh",
+      "Plot": "Nikka falls in love with a girl, but their families have different views on marriage, leading to humorous and dramatic situations.",
+      "imdbID": "tt10427288",
+      "Actors": "Ammy Virk, Wamiqa Gabbi, Sonia Kaur, Nirmal Rishi"
+    },
+    {
+      "Title": "Mitti Na Pharol Jogiya",
+      "Year": "2015",
+      "Director": "Avtar Singh",
+      "Plot": "A young man's life changes when he decides to stand up against a corrupt politician in his village.",
+      "imdbID": "tt4930574",
+      "Actors": "Kartar Cheema, Amann Grewal, Aman Dhaliwal, Japtej Singh"
+    },
+    {
+      "Title": "Mar Gaye Oye Loko",
+      "Year": "2018",
+      "Director": "Simerjit Singh",
+      "Plot": "A man's soul enters the body of another man, leading to humorous and chaotic situations.",
+      "imdbID": "tt8983164",
+      "Actors": "Gippy Grewal, Binnu Dhillon, Sapna Pabbi, Jaswinder Bhalla"
+    },
+    {
+      "Title": "Arjan",
+      "Year": "2017",
+      "Director": "Manduip Singh",
+      "Plot": "A young man fights against the corrupt education system and tries to bring about positive changes.",
+      "imdbID": "tt6206552",
+      "Actors": "Roshan Prince, Prachi Tehlan, B.N. Sharma, Nirmal Rishi"
+    },
+    {
+      "Title": "Carry on Jatta",
+      "Year": "2012",
+      "Rated": "N/A",
+      "Released": "27 Jul 2012",
+      "Runtime": "143 min",
+      "Genre": "Comedy",
+      "Director": "Smeep Kang",
+      "Writer": "Smeep Kang, Naresh Kathooria, Sukhdeep Singh Sandhu",
+      "Actors": "Gippy Grewal, Mahie Gill, Gurpreet Ghuggi",
+      "Plot": "Jass falls in love with Mahie who wants to marry an orphan, so he lies to her and tells her he has no family, and finds himself in hilarious situations when he has to hide the truth once they get married.",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTdhMGIzNDAtNGJlNi00MTJhLThkOWYtZTM4MTg0OGY1ZGU4XkEyXkFqcGdeQXVyMzc0NzU5MTc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.3",
+      "imdbVotes": "3,448",
+      "imdbID": "tt2245544",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Lucky DI Unlucky Story",
+      "Year": "2013",
+      "Rated": "N/A",
+      "Released": "26 Apr 2013",
+      "Runtime": "129 min",
+      "Genre": "Comedy",
+      "Director": "Smeep Kang",
+      "Writer": "Smeep Kang, Naresh Kathooria, Vaibhav Suman",
+      "Actors": "Gippy Grewal, Surveen Chawla, Jaswinder Bhalla",
+      "Plot": "Lucky, is a happy bachelor who finds Kirat, a beautiful woman. He wins her heart for marriage but a murder, crazy uncles and other hijinks come in his way. Will they ever get married??",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDZlOGNkOTYtY2RjYi00M2U2LWI2YTgtOTg3YjgzYjA3MzQwXkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.8",
+      "imdbVotes": "818",
+      "imdbID": "tt2771898",
+      "Type": "movie",
+      "DVD": "25 Sep 2020",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Ucha Dar Babe Nanak Da",
+      "Year": "1987",
+      "Rated": "N/A",
+      "Released": "09 Sep 1987",
+      "Runtime": "155 min",
+      "Genre": "Drama, Musical",
+      "Director": "K. Pappu",
+      "Writer": "Amrik Gill, K. Pappu",
+      "Actors": "Gurdas Maan, Preeti Sapru, Kulbhushan Kharbanda",
+      "Plot": "Gurdit is thrown out of his village after engaging in a fight with a powerful family. He loses his voice too before he can return triumphantly to the village.",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM4ODAwMTQtMzk3Yy00MzJmLWIwMjMtNDhkZjUwYTE2MDViXkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.4",
+      "imdbVotes": "108",
+      "imdbID": "tt0316827",
+      "Type": "movie",
+      "DVD": "07 Aug 2015",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Jatt & Juliet 2",
+      "Year": "2013",
+      "Rated": "N/A",
+      "Released": "28 Jun 2013",
+      "Runtime": "140 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Anurag Singh",
+      "Writer": "Dheeraj Rattan, Amberdeep Singh, Anurag Singh",
+      "Actors": "Diljit Dosanjh, Neeru Bajwa, Jaswinder Bhalla",
+      "Plot": "Two Punjab Police officers head to Canada to solve on a mission. When they get to Canada, their mission isn't as simple as what they first thought.",
+      "Language": "Punjabi",
+      "Country": "Canada, India",
+      "Awards": "4 wins",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmU1NGMxZWUtOWMwMi00MzM2LTgxMDgtMTVjYWZmYmEwZGJiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "2,078",
+      "imdbID": "tt2673882",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Dharti",
+      "Year": "2011",
+      "Rated": "Not Rated",
+      "Released": "22 Apr 2011",
+      "Runtime": "126 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Navaniat Singh",
+      "Writer": "Manoj Jha, Manoj K. Jha",
+      "Actors": "Jimmy Shergill, Surveen Chawla, Japji Khaira",
+      "Plot": "Dharti is produced by Darshan Singh Grewal, J.S. Kataria and Jimmy Shergill, and stars Jimmy Shergill, Surveen Chawla, Rannvijay Singh, Japji Khaira, Prem Chopra, Rahul Dev, Binnu Dhillon &amp; Shavinder Mahal. Jimmy Shergill's backgr...",
+      "Language": "Punjabi, Hindi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2ZmZTg3YzAtZmE1Mi00YTk5LWEzNGEtM2UyZjRkYTFiYmE3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "395",
+      "imdbID": "tt1904875",
+      "Type": "movie",
+      "DVD": "18 Nov 2016",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Waris Shah: Ishq Daa Waaris",
+      "Year": "2006",
+      "Rated": "N/A",
+      "Released": "06 Oct 2006",
+      "Runtime": "138 min",
+      "Genre": "Drama, History",
+      "Director": "Manoj Punj",
+      "Writer": "Suraj Sanim",
+      "Actors": "Gurdas Maan, Juhi Chawla, Sushant Singh",
+      "Plot": "When the Mughal emperor Aurangzeb bans music in India because he believes it turns people away from God, musicians go underground.",
+      "Language": "Punjabi",
+      "Country": "N/A",
+      "Awards": "2 wins",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDA2NzU3ODctNGVhOC00ZTNjLWE5ZDUtZjA1MTlhMGZkM2JjXkEyXkFqcGdeQXVyNjU1NjQxMTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.6",
+      "imdbVotes": "230",
+      "imdbID": "tt0892113",
+      "Type": "movie",
+      "DVD": "29 Jan 2019",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Jatt & Juliet",
+      "Year": "2012",
+      "Rated": "N/A",
+      "Released": "29 Jun 2012",
+      "Runtime": "140 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Anurag Singh",
+      "Writer": "Dheeraj Rattan",
+      "Actors": "Diljit Dosanjh, Neeru Bajwa, Jaswinder Bhalla",
+      "Plot": "Stark opposites, Fateh Singh and Pooja reach Canada with dreams in their eyes. They cross paths and sparks fly. However, life has a different plan for them.",
+      "Language": "Punjabi",
+      "Country": "India, Canada",
+      "Awards": "5 wins",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmY1YjI1OTUtMDRlNC00Nzc3LTg4OGYtNjU0NjRiMmE0ZWI2XkEyXkFqcGdeQXVyNjE4MTE3MDY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.5",
+      "imdbVotes": "2,723",
+      "imdbID": "tt2196254",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Naughty Jatts",
+      "Year": "2013",
+      "Rated": "Not Rated",
+      "Released": "02 Aug 2013",
+      "Runtime": "120 min",
+      "Genre": "Comedy",
+      "Director": "Pankaj Batra",
+      "Writer": "Naresh Kathooria",
+      "Actors": "Neeru Bajwa, Binnu Dhillon, Arya Babbar",
+      "Plot": "Three jatts are running for one girl.",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWI4NTlmMmMtOWYyZC00NGEzLTk2ZTQtMWRiZDVjZDkwZjJlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.2",
+      "imdbVotes": "228",
+      "imdbID": "tt2984648",
+      "Type": "movie",
+      "DVD": "27 Mar 2017",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Shaheed Uddham Singh: Alais Ram Mohammad Singh Azad",
+      "Year": "2000",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "165 min",
+      "Genre": "Biography, Drama, Musical",
+      "Director": "Chitraarth",
+      "Writer": "Surjit Patar, Atul Tiwari",
+      "Actors": "Raj Babbar, Gurdas Maan, Shatrughan Sinha",
+      "Plot": "Udham Singh was born and brought in a Sikh Kamboj family in Punjab, India, during the time when the British ruled India. Enraged at the massacre of over 2000 men, women, and children at the hands of Brigardier General Edward Harry...",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTJmMDc1YmItZTRiMC00ZGI3LWI2OGYtMWI3NWEwNzIyZjBhXkEyXkFqcGdeQXVyMjUxNjcxMjU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "223",
+      "imdbID": "tt0237727",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Singh vs. Kaur",
+      "Year": "2013",
+      "Rated": "N/A",
+      "Released": "15 Feb 2013",
+      "Runtime": "149 min",
+      "Genre": "Comedy",
+      "Director": "Navaniat Singh",
+      "Writer": "Dheeraj Rattan",
+      "Actors": "Gippy Grewal, Surveen Chawla, Japji Khaira",
+      "Plot": "Nihal Singh is a young man from a village in Nabha, who in an attempt to get rid of an unwanted marriage proposal, ends up lying to his entire village that he loves somebody named 'Jasneet Kaur' (Surveen Chawla) from Vancouver. In...",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjlmMzUzNGItYjJlYi00MjE1LWEyNjYtMjEwM2QzYTljN2E3XkEyXkFqcGdeQXVyNjE4MTE3MDY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.6",
+      "imdbVotes": "804",
+      "imdbID": "tt2714664",
+      "Type": "movie",
+      "DVD": "28 Sep 2020",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Chaar Sahibzaade",
+      "Year": "2014",
+      "Rated": "Unrated",
+      "Released": "06 Nov 2014",
+      "Runtime": "135 min",
+      "Genre": "Animation, History",
+      "Director": "Harry Baweja",
+      "Writer": "Harry Baweja, Baldev Gill, Pathik Vats",
+      "Actors": "Om Puri, Harman Baweja",
+      "Plot": "The sacrifices of the four sons of Guru Gobind Singh ji (tenth guru of Sikhs) - Baba Ajit Singh ji, Baba Jujhar Singh ji, Baba Zorawar Singh ji and Baba Fateh Singh ji.",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTNmMDQxYjEtZWNiMS00NTgwLWI1MzctYTY4ODNhOGNlM2FhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.7",
+      "imdbVotes": "7,876",
+      "imdbID": "tt4168188",
+      "Type": "movie",
+      "DVD": "28 Feb 2017",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Hashar: A Love Story...",
+      "Year": "2008",
+      "Rated": "Not Rated",
+      "Released": "26 Sep 2008",
+      "Runtime": "176 min",
+      "Genre": "Romance",
+      "Director": "Gaurav Trehan",
+      "Writer": "Master Tarlochan Singh",
+      "Actors": "Babbu Mann, Gurleen Chopra, Akshita Sharma",
+      "Plot": "Amidst love, passion, hatred and romance set in a university campus, the movie highlights the plight of students when politicians get involved in student elections for their own benefit.",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWYxOWFjMTctMWZhMy00NDRiLTg3MzYtMGEyZjBmMDU2OGE0XkEyXkFqcGdeQXVyNjUzNzU5MTQ@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "290",
+      "imdbID": "tt1478275",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Jee Aayan Nu",
+      "Year": "2003",
+      "Rated": "Not Rated",
+      "Released": "N/A",
+      "Runtime": "187 min",
+      "Genre": "Drama, Romance",
+      "Director": "Manmohan Singh",
+      "Writer": "Baldev Gill, Babu Singh Maan",
+      "Actors": "Harbhajan Mann, Priya Gill, Kimi Verma",
+      "Plot": "Love story of Simar who is from Canada and Inder who is from Punjab. The story revolves around how the young couple have to overcome all odds to stay together.",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2Q1ZGMzYmYtNWFjNy00NmRiLWJjYTEtNDIzNTQ5NTQ5Y2M1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.3",
+      "imdbVotes": "186",
+      "imdbID": "tt0451089",
+      "Type": "movie",
+      "DVD": "18 Oct 2019",
+      "BoxOffice": "$393,117",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Angrej",
+      "Year": "2015",
+      "Rated": "Not Rated",
+      "Released": "31 Jul 2015",
+      "Runtime": "130 min",
+      "Genre": "Romance",
+      "Director": "Simerjit Singh",
+      "Writer": "Amberdeep Singh",
+      "Actors": "Amrinder Gill, Sargun Mehta, Aditi Sharma",
+      "Plot": "A thoughtful young man struggles to find a woman to marry.",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "5 wins & 2 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2Q5NjlmODUtYjkzOS00NjY3LThjNGQtY2YzYTdjYjRmNzAzXkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.5",
+      "imdbVotes": "3,537",
+      "imdbID": "tt4846952",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Ishq Garaari",
+      "Year": "2013",
+      "Rated": "N/A",
+      "Released": "25 Oct 2013",
+      "Runtime": "140 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Dheeraj Rattan",
+      "Writer": "Dheeraj Rattan",
+      "Actors": "Sharry Mann, Gulzar Chahal, Vinaypal Buttar",
+      "Plot": "I like very much miss pooja",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGViMmIyOGQtMzI5NC00NDk3LThiMjctN2E4MjFkMDkyYmY5XkEyXkFqcGdeQXVyNjE4MTE3MDY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.8",
+      "imdbVotes": "112",
+      "imdbID": "tt3213204",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Nanak Naam Jahaz Hai",
+      "Year": "1969",
+      "Rated": "N/A",
+      "Released": "15 Apr 1969",
+      "Runtime": "140 min",
+      "Genre": "Drama",
+      "Director": "Ram Maheshwari",
+      "Writer": "Bekal Amritsari, Ram Maheshwari, Verma Malik",
+      "Actors": "David Abraham, Som Dutt, Gajanan Jagirdar",
+      "Plot": "Gurumukh Singh, his wife, and younger brother, Prem, live a fairly harmoniously lifestyle in 1947 India. Both brothers open a contracting business and prosper. Prem gets married to Ratan Kaur and shortly thereafter Gurumukh become...",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDk3MmJkYzYtNTk5My00ODMxLWJiMmQtNmZjOWNhYjQxOTMxXkEyXkFqcGdeQXVyNDc4NDIxMTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.6",
+      "imdbVotes": "88",
+      "imdbID": "tt0142681",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Bha Ji in Problem",
+      "Year": "2013",
+      "Rated": "N/A",
+      "Released": "15 Nov 2013",
+      "Runtime": "118 min",
+      "Genre": "Comedy",
+      "Director": "Smeep Kang",
+      "Writer": "Smeep Kang, Naresh Kathooria, Vaibhav Suman",
+      "Actors": "Gippy Grewal, Gurpreet Ghuggi, Ragini Khanna",
+      "Plot": "A man is married to two women; both wives unaware of the other's existence. When a proposal arrives for his sister, he must turn to Jeeta for help.",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDI4ZjkzZjUtNWIxMC00MThmLWJjOWMtNjFmOTEyYTJjZmI4XkEyXkFqcGdeQXVyNjE4MTE3MDY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.1",
+      "imdbVotes": "1,070",
+      "imdbID": "tt2879770",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Patola",
+      "Year": "1988",
+      "Rated": "N/A",
+      "Released": "25 Mar 1988",
+      "Runtime": "N/A",
+      "Genre": "Action, Comedy, Drama",
+      "Director": "Jagjeet Gill, Veerendra",
+      "Writer": "Rajinder Rajan",
+      "Actors": "Daljeet Kaur Khangura, Veerendra, Shobhini Singh",
+      "Plot": "N/A",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmI2MDA2MDAtYmNkMi00NjgyLWFmZGQtYzE1YzZjYWU0Y2VjXkEyXkFqcGdeQXVyODQwMDcwNDY@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "11",
+      "imdbID": "tt0454523",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Jihne Mera Dil Luteya",
+      "Year": "2011",
+      "Rated": "N/A",
+      "Released": "29 Jul 2011",
+      "Runtime": "135 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Mandeep Kumar",
+      "Writer": "Dheeraj Rattan",
+      "Actors": "Gippy Grewal, Neeru Bajwa, Diljit Dosanjh",
+      "Plot": "Life is carefree and filled with series of mischievous events for dashing and happy-go-lucky Yuvraj and rocking rebel Gurnoor at the Patiala University, until they are bedazzled by the charming and sexy Noor who sweeps them off th...",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "3 wins",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjkwMTE3MDAtYjBiMi00NmViLTg0NWItMzg0MTk1N2EyYjQzXkEyXkFqcGdeQXVyNjE4MTE3MDY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "1,096",
+      "imdbID": "tt2014260",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Punjab 1984",
+      "Year": "2014",
+      "Rated": "N/A",
+      "Released": "27 Jun 2014",
+      "Runtime": "159 min",
+      "Genre": "Drama, Family, History",
+      "Director": "Anurag Singh",
+      "Writer": "Surmeet Maavi, Anurag Singh",
+      "Actors": "Diljit Dosanjh, Kirron Kher, Pawan Malhotra",
+      "Plot": "During a time of political turmoil, a mother goes on a journey in search of her missing son, who has been misjudged and labeled a terrorist.",
+      "Language": "Punjabi",
+      "Country": "India, Canada",
+      "Awards": "7 wins",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2M1MGQyNjgtYWQ2My00MDViLWFkMDMtOTY2NDc0OTcxN2RlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.3",
+      "imdbVotes": "2,292",
+      "imdbID": "tt3607198",
+      "Type": "movie",
+      "DVD": "02 Nov 2017",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Oye Hoye Pyar Ho Gaya",
+      "Year": "2013",
+      "Rated": "N/A",
+      "Released": "14 Jun 2013",
+      "Runtime": "131 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Aditya Sood",
+      "Writer": "Aditya Sood",
+      "Actors": "Sharry Mann, Niharika Kareer, Jimmy Sharma",
+      "Plot": "",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjgzZGU4N2UtN2QwZS00MDZkLTk2ODItYTZkZDIxODhmNjEyXkEyXkFqcGdeQXVyNjM3ODA5NzI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "4.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "4.6",
+      "imdbVotes": "43",
+      "imdbID": "tt3138532",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Best of Luck",
+      "Year": "2013",
+      "Rated": "N/A",
+      "Released": "26 Jul 2013",
+      "Runtime": "133 min",
+      "Genre": "Action, Comedy",
+      "Director": "Manmord Sidhu",
+      "Writer": "Anugrah Bohrey, Naresh Kathooria, Dheeraj Rattan",
+      "Actors": "Gippy Grewal, Jazzy B., Simran Kaur Mundi",
+      "Plot": "A kidnapping of a Gangster leads two young chaps towards their bad luck. But soon they become friends with this gangster and he helps them woo the families of the girls they fall in love with.",
+      "Language": "Punjabi",
+      "Country": "India, Canada",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWM1NTFhMGYtNjc2Ny00ZGMyLTg1NTEtMzkzYzQyZmEwNjFkXkEyXkFqcGdeQXVyNjE4MTE3MDY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.7",
+      "imdbVotes": "408",
+      "imdbID": "tt2215348",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Sardarji",
+      "Year": "2015",
+      "Rated": "N/A",
+      "Released": "26 Jun 2015",
+      "Runtime": "141 min",
+      "Genre": "Comedy, Fantasy, Horror",
+      "Director": "Rohit Jugraj",
+      "Writer": "Jatinder-Lall, Surmeet Maavi, Dheeraj Rattan",
+      "Actors": "Diljit Dosanjh, Neeru Bajwa, Mandy Takhar",
+      "Plot": "A fearless Indian ghost hunter who traps ghosts in bottles falls in love with a ghost.",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjVlMDdmYTYtYWY0OS00OGVjLTlmZjAtMGNlZjdjYmM3N2RiXkEyXkFqcGdeQXVyNjE4MTE3MDY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.2",
+      "imdbVotes": "1,622",
+      "imdbID": "tt4080386",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Nanak Dukhiya Sub Sansar",
+      "Year": "1970",
+      "Rated": "N/A",
+      "Released": "01 Jan 1970",
+      "Runtime": "135 min",
+      "Genre": "Action, Drama",
+      "Director": "Dara Singh Randhawa",
+      "Writer": "Prem Dhawan, Dara Singh Randhawa, Nanak Singh",
+      "Actors": "Dara Singh Randhawa, Balraj Sahni, Prithviraj Kapoor",
+      "Plot": "Porthwar-based Santram is killed while fleeing from Muslims during the religious riots of 1948 following the partition of Pakistan from India. His wife, Tagpyariye, manages to flee along with their sons, Kartar and Ram, but gets s...",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmE2OWViNDMtNWMxNi00NmZiLTkxYTktMzBlNDRmODQzMjM1XkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.5",
+      "imdbVotes": "35",
+      "imdbID": "tt0213108",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Ishq Brandy",
+      "Year": "2014",
+      "Rated": "N/A",
+      "Released": "21 Feb 2014",
+      "Runtime": "124 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Amit Prasher",
+      "Writer": "Rupinder Inderjit",
+      "Actors": "Roshan Prince, Alfaaz, Binnu Dhillon",
+      "Plot": "Ishq Brandy is a masala potboiler which narrates a story of three friends who have a tag line \"if you are my friend, I don't need an enemy\"... Teji, Gura and Pritam from three different worlds, bound by their respective Ishq, do s...",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDI4YTQ5ZWYtYmYwMS00NDY4LThjZTQtODlkY2QzYjFlZWFjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.3",
+      "imdbVotes": "112",
+      "imdbID": "tt3533614",
+      "Type": "movie",
+      "DVD": "22 May 2017",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Viyah 70 Km",
+      "Year": "2013",
+      "Rated": "N/A",
+      "Released": "13 Sep 2013",
+      "Runtime": "134 min",
+      "Genre": "Comedy",
+      "Director": "Mushtaq Pasha",
+      "Writer": "Raman K. Jangwal, Naresh Kathooria, Amberdeep Singh",
+      "Actors": "Harish Verma, Geeta Zaildar, Aarti Chhabria",
+      "Plot": "",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2EzZTE4ZDktMGI0OC00MjM2LTg2MDQtYjFhMTg3MjA4ZDY2XkEyXkFqcGdeQXVyNDkyMjY1NzI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.8",
+      "imdbVotes": "97",
+      "imdbID": "tt3331954",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Jatt James Bond",
+      "Year": "2014",
+      "Rated": "Not Rated",
+      "Released": "25 Apr 2014",
+      "Runtime": "220 min",
+      "Genre": "Comedy",
+      "Director": "Rohit Jugraj",
+      "Writer": "Jass Grewal, Jatinder-Lall, Ed D Singh",
+      "Actors": "Gippy Grewal, Zareen Khan, Gurpreet Ghuggi",
+      "Plot": "Shinda was mistreated by his relatives therefore he finds other ways to have his love Laali. Shinda and his two other friends come up with a plan to solve all of their problems.",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "3 wins",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWVmNjQ2YmYtY2M4ZS00NDdkLTljZmUtYTZkNmNjM2FhMWU3XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "737",
+      "imdbID": "tt3732110",
+      "Type": "movie",
+      "DVD": "02 Dec 2016",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Bambukat",
+      "Year": "2016",
+      "Rated": "N/A",
+      "Released": "29 Jul 2016",
+      "Runtime": "118 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Pankaj Batra, Gurii",
+      "Writer": "Jass Grewal, Jatinder-Lall, Gurjant Singh Marahar",
+      "Actors": "Ammy Virk, Simi Chahal, Binnu Dhillon",
+      "Plot": "Bambukat, set in 1960, is a story about two sisters. One is a simple girl, Pakko, who's not fair skinned and look dusky, and Sami, who is prettier than Pakko. The story of Bambukat is how Pakko's husband tries to impress his in-laws.",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "5 wins",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2I3ZWEzMTMtN2U4Yi00ZDVmLWEwYmQtYmZhYjcxMzYyOTYzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.6",
+      "imdbVotes": "998",
+      "imdbID": "tt5929890",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Kankan De Ohle",
+      "Year": "1970",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "Drama, Romance",
+      "Director": "Omi Bedi",
+      "Writer": "N/A",
+      "Actors": "Ravindra Kapoor, Indira, Jeevan Dhar",
+      "Plot": "Chaudhary takes on the identity of a bandit in order to save the marriage of his friend's daughter and is jailed. The villagers takes him to be wrong and throws out his wife and son out of the village where his son, Madan, grows u...",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjM4NDBjYTAtNzUzOS00MWRiLWI3N2MtYmNlOTgwNjI5YWFlXkEyXkFqcGdeQXVyMjUxNjcxMjU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.6",
+      "imdbVotes": "17",
+      "imdbID": "tt0302682",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Sardaarji 2",
+      "Year": "2016",
+      "Rated": "N/A",
+      "Released": "24 Jun 2016",
+      "Runtime": "145 min",
+      "Genre": "Adventure, Comedy",
+      "Director": "Rohit Jugraj",
+      "Writer": "Jatinder-Lall, Surmeet Maavi, Dheeraj Rattan",
+      "Actors": "Sonam Bajwa, Gurpreet Bal, Paul Barbara",
+      "Plot": "A short-tempered farmer exiled in Australia must raise a large sum of money before he can return to his village.",
+      "Language": "Punjabi",
+      "Country": "Australia, India",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA2ZjM1YTYtOWZkNS00YzcyLTk1YmMtMGNkYjY0YjNlMzQyXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.2",
+      "imdbVotes": "683",
+      "imdbID": "tt5701172",
+      "Type": "movie",
+      "DVD": "15 Oct 2017",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Dulla Bhatti Wala",
+      "Year": "2016",
+      "Rated": "N/A",
+      "Released": "10 Jun 2016",
+      "Runtime": "107 min",
+      "Genre": "Drama",
+      "Director": "Minar Malhotra",
+      "Writer": "Minar Malhotra, Ed D Singh",
+      "Actors": "Binnu Dhillon, Aman Hundal, Amar Noorie",
+      "Plot": "Having witnessed his father's murder as a child, a man seeks revenge against the ruthless landlord who killed him.",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWQwMTQ4MGUtMDRmMS00ZTQ4LTg4ZGUtMDUwODA3ZDliMDhhXkEyXkFqcGdeQXVyNjc3MjUwNzc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "4.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "4.8",
+      "imdbVotes": "80",
+      "imdbID": "tt5785158",
+      "Type": "movie",
+      "DVD": "31 Aug 2020",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Channo Kamli Yaar Di",
+      "Year": "2016",
+      "Rated": "N/A",
+      "Released": "19 Feb 2016",
+      "Runtime": "144 min",
+      "Genre": "Drama",
+      "Director": "Pankaj Batra",
+      "Writer": "Naresh Kathooria",
+      "Actors": "Neeru Bajwa, Binnu Dhillon, Rana Ranbir",
+      "Plot": "Channo is an emotional journey of a very common Punjabi girl who went Canada to find her missing husband Jeet.",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "2 wins",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTU3NjcwMmYtMTRkZC00ZGE5LTk1MWQtZDNkY2QzZWNkZDg1XkEyXkFqcGdeQXVyNjQ2ODg2MDg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.7",
+      "imdbVotes": "208",
+      "imdbID": "tt5313414",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Mera Pind: My Home",
+      "Year": "2008",
+      "Rated": "TV-PG",
+      "Released": "20 Sep 2008",
+      "Runtime": "165 min",
+      "Genre": "Comedy, Drama, Musical",
+      "Director": "Manmohan Singh",
+      "Writer": "Amrik Gill, Babu Singh Maan, Manmohan Singh",
+      "Actors": "Harbhajan Mann, Navjot Singh Sidhu, Kimi Verma",
+      "Plot": "An NRI moves to his native village to spread the message of empowerment among the youth. Under his support, Himmat, a young man leads the youth to contribute to the village's development.",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjFmNjAxYWItYjY3MS00NWM4LWJlZDMtYjc5MTY3NWE4YmU1XkEyXkFqcGdeQXVyMjUxNjcxMjU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "93",
+      "imdbID": "tt1518814",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$176,976",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Asa Nu Maan Watna Da: In Search of Our Roots",
+      "Year": "2004",
+      "Rated": "N/A",
+      "Released": "07 May 2004",
+      "Runtime": "179 min",
+      "Genre": "Drama, Romance",
+      "Director": "Manmohan Singh",
+      "Writer": "Baldev Gill, Babu Singh Maan, Manmohan Singh",
+      "Actors": "Harbhajan Mann, Kimi Verma, Neeru Bajwa",
+      "Plot": "Calgary-based businessman Kanwaljit Singh Tilon sends money home to his brother, Deep, to invest in some property. Now with his wife; son, Mehr; and medical-student daughter, Aman; he returns home to Kapurthala to live with Deep f...",
+      "Language": "Punjabi",
+      "Country": "India, Canada",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWZiYWI1YWMtMDA2MC00YzE4LTg2NzYtNDQ3ZjJhMjg0ZTAzXkEyXkFqcGdeQXVyMjUxNjcxMjU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.4",
+      "imdbVotes": "147",
+      "imdbID": "tt0414834",
+      "Type": "movie",
+      "DVD": "23 May 2015",
+      "BoxOffice": "$235,075",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Mahaul Theek Hai",
+      "Year": "1999",
+      "Rated": "N/A",
+      "Released": "14 Feb 1999",
+      "Runtime": "N/A",
+      "Genre": "Comedy",
+      "Director": "Jaspal Bhatti",
+      "Writer": "Bakhshinder",
+      "Actors": "Jaspal Bhatti, Raj Babbar, Daljeet Kaur Khangura",
+      "Plot": "This story revolves around a love couple and a police duo. Vicky is the younger brother of Rice Business man Inder Rai and loves Kiran daughter of a poor man Raushan Lal. The police duo comprises of Jaspal Bhatti(SSP) and Vivek Sh...",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWRhY2Q2M2MtNWQzYy00MDdmLTg3NjktNmE2NWY0MmNiM2FmXkEyXkFqcGdeQXVyMjUxNjcxMjU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.9",
+      "imdbVotes": "146",
+      "imdbID": "tt0308534",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Dukh Bhanjan Tera Naam",
+      "Year": "1974",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "N/A",
+      "Director": "B.S. Thapa",
+      "Writer": "K. Sarshar",
+      "Actors": "Dharmendra, Dara Singh Randhawa, Sunil Dutt",
+      "Plot": "N/A",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2E5MDE1M2QtNDliNi00ODUwLWJmZTItZWQ2ZjA3NGU5MTA0XkEyXkFqcGdeQXVyMjUxNjcxMjU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "31",
+      "imdbID": "tt0308194",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Mel Karade Rabba",
+      "Year": "2010",
+      "Rated": "N/A",
+      "Released": "16 Jul 2010",
+      "Runtime": "135 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Navaniat Singh",
+      "Writer": "Dheeraj Rattan",
+      "Actors": "Jimmy Shergill, Gippy Grewal, Diljit Dosanjh",
+      "Plot": "Rajveer ( Jimmy Shergill ) is a university boy in Punjab , a self-styled cool, macho dude who can't help acting rude around the college girls. But surprisingly, without him doing anything, our cool dude manages to get close to the...",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWY3NDFjNWEtZjExOC00MTg0LTljNmYtYjc2NjhlMzQ1NjE4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "840",
+      "imdbID": "tt1694561",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Yaar Anmulle",
+      "Year": "2011",
+      "Rated": "Not Rated",
+      "Released": "07 Oct 2011",
+      "Runtime": "142 min",
+      "Genre": "Comedy",
+      "Director": "Anurag Singh, Sukh Dhillon",
+      "Writer": "Anurag Singh",
+      "Actors": "Arya Babbar, Harish Verma, Yuvraj Hans",
+      "Plot": "A story of three friends - Guri, Deep and Sher Singh - who are studying in a university and are staying together in the hostel of the same university. The movie explores this very friendship between these three boys as they spend ...",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODZlZDI4ODUtNGU2MC00N2MyLThlYTgtYzQ1YWViYmVmODI3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "985",
+      "imdbID": "tt2082513",
+      "Type": "movie",
+      "DVD": "08 Jan 2019",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Mr. & Mrs. 420",
+      "Year": "2014",
+      "Rated": "N/A",
+      "Released": "14 Mar 2014",
+      "Runtime": "132 min",
+      "Genre": "Comedy",
+      "Director": "Ksshitij Chaudhary, Deepak Thaper",
+      "Writer": "Smeep Kang, Naresh Kathooria",
+      "Actors": "Yuvraj Hans, Jassie Gill, Babbal Rai",
+      "Plot": "Deputy wants to become a successful actor like Dharmendra so he can prove to his lover that he is worthy of her love.",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGI2NWYyZjItYmIyMy00NmRjLWE5NzQtOTQ3NmIwZDhkNWU0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "336",
+      "imdbID": "tt4038978",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Ardaas",
+      "Year": "2016",
+      "Rated": "N/A",
+      "Released": "11 Mar 2016",
+      "Runtime": "135 min",
+      "Genre": "Drama",
+      "Director": "Gippy Grewal",
+      "Writer": "Gippy Grewal, Rana Ranbir",
+      "Actors": "Gurpreet Ghuggi, Ammy Virk, Rana Ranbir",
+      "Plot": "A story about how people in a village deal with everyday problems in Punjab and learn how to live.",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjU5ZjVmZDEtYmQyMC00Yzk5LWI2MjItMTBmZmI1MGJjZmQ3XkEyXkFqcGdeQXVyNjU5OTYwOTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.3",
+      "imdbVotes": "1,665",
+      "imdbID": "tt5565670",
+      "Type": "movie",
+      "DVD": "05 Jun 2020",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Ronde Sare Vyah Picho",
+      "Year": "2013",
+      "Rated": "N/A",
+      "Released": "11 Oct 2013",
+      "Runtime": "131 min",
+      "Genre": "Comedy",
+      "Director": "Vijay Kumar Arora",
+      "Writer": "Ved Prakash, Jagdeep Sidhu",
+      "Actors": "Harish Verma, Neeru Bajwa, Guggu Gill",
+      "Plot": "When he realizes his wife is a con artist, a man reacts by stepping in as her much-needed protector.",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODZlMjcxYzAtNTE3YS00ZDA2LTgzODUtNzE5MWJhYTE4NjNhXkEyXkFqcGdeQXVyNjE4MTE3MDY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "96",
+      "imdbID": "tt3265542",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Shaheed-E-Mohabbat Boota Singh",
+      "Year": "1999",
+      "Rated": "N/A",
+      "Released": "01 Jan 1999",
+      "Runtime": "121 min",
+      "Genre": "Biography, Drama, Musical",
+      "Director": "Manoj Punj",
+      "Writer": "Suraj Sanim",
+      "Actors": "Gurdas Maan, Divya Dutta, Gurkirtan",
+      "Plot": "The film is set in 1947. The exodus has begun after Partition. A Sikh ex-military man in his thirties finds a 16-year-old Muslim girl alone in a nearby village and brings her home. But the villagers tell him he should either marry...",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjFjYTNkMjMtMmY2NS00YjEyLTkzYTAtMTYwYzhkNTQ1OWQ2XkEyXkFqcGdeQXVyMjUxNjcxMjU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.3",
+      "imdbVotes": "216",
+      "imdbID": "tt0308875",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Long Da Lishkara",
+      "Year": "1983",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "143 min",
+      "Genre": "Drama, Romance",
+      "Director": "Harpal Tiwana",
+      "Writer": "Ravinder Peepat, Nirmal Rishi, Sardar Sohi",
+      "Actors": "Raj Babbar, Om Puri, Gurdas Maan",
+      "Plot": "A man (Raj Babbar) must decide between true love or his family's reputation when he falls in love with a servant.",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmQ0NjlhMmItNTU5OS00M2JkLWIyZTEtOTlmMmFlNDc4MjdiXkEyXkFqcGdeQXVyMjUxNjcxMjU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.7",
+      "imdbVotes": "87",
+      "imdbID": "tt0308513",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Dil Vil Pyaar Vyaar",
+      "Year": "2014",
+      "Rated": "N/A",
+      "Released": "02 May 2014",
+      "Runtime": "145 min",
+      "Genre": "Family",
+      "Director": "Manjeet Maan",
+      "Writer": "Dheeraj Rattan",
+      "Actors": "Raj Singh Jhinjar, Neeru Bajwa, Omkar Bhakri",
+      "Plot": "The elder brother does a contract marriage so that his younger brothers can get married, but everyone has their own secrets which they are hiding from each other.",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjVlMGViZWEtYWVhZi00MjZmLTk0ODktMmJkNzBmY2M1ODVhXkEyXkFqcGdeQXVyNjg1ODU5MzI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.5",
+      "imdbVotes": "97",
+      "imdbID": "tt3723864",
+      "Type": "movie",
+      "DVD": "25 Mar 2017",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Ambarsariya",
+      "Year": "2016",
+      "Rated": "N/A",
+      "Released": "25 Mar 2016",
+      "Runtime": "140 min",
+      "Genre": "Action, Comedy, Family",
+      "Director": "Mandeep Kumar",
+      "Writer": "Surmeet Maavi, Dheeraj Rattan, Balraj Syal",
+      "Actors": "Diljit Dosanjh, Monica Gill, Navneet Kaur Dhillon",
+      "Plot": "A secret agent who is posing as an insurance salesman tries to find an assassin, while also trying to juggle three women.",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmExYTBmODAtNmUxNy00MzI3LTlkN2UtNjA5OTFjNWRlOGQ4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "930",
+      "imdbID": "tt5565818",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Des Hoyaa Pardes",
+      "Year": "2004",
+      "Rated": "N/A",
+      "Released": "14 Jan 2005",
+      "Runtime": "163 min",
+      "Genre": "Drama",
+      "Director": "Manoj Punj",
+      "Writer": "Suraj Sanim",
+      "Actors": "Gurdas Maan, Juhi Chawla, Divya Dutta",
+      "Plot": "In 1984 the former Indian Prime Minister, Indira Gandhi, was assassinated by her Sikh bodyguards, and since then the Sikhs have been a target of violent backlashes by radicals and the Punjab Police. During 1985 Gursharan Singh Som...",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzUyNDEyMWEtOTMwMi00YzUwLWE2NjQtNTE0MzdlNjVmNGFiXkEyXkFqcGdeQXVyMjUxNjcxMjU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.1",
+      "imdbVotes": "165",
+      "imdbID": "tt0449221",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Qurbani Jatt Di",
+      "Year": "1990",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "127 min",
+      "Genre": "Action, Drama, Romance",
+      "Director": "Preeti Sapru",
+      "Writer": "B.S. Gill, Babu Singh Maan, Preeti Sapru",
+      "Actors": "Dharmendra, Gurdas Maan, Preeti Sapru",
+      "Plot": "After Sarpanch Sucha Singh attempts to stop Joginder Dhiba, who is the brother of his sister-in-law, Jeeto, from sexually molesting Kamli, a physical confrontation ensues, resulting in the death of Joginder. Sucha is arrested, tri...",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzQwNTJkZTMtNDAyOS00NjVlLWI5ZWUtODU1ZDk1OWJhZWM1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "24",
+      "imdbID": "tt0308786",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Pratigya",
+      "Year": "1995",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "Action, Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Dara Singh Randhawa, Guggu Gill, Gurdas Maan",
+      "Plot": "N/A",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzg0N2NhOTUtMjIxZS00MDkyLTgyMzgtODFmOTM3YmI2ZjE3XkEyXkFqcGdeQXVyODQwMDcwNDY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "9",
+      "imdbID": "tt0316433",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Shareek",
+      "Year": "2015",
+      "Rated": "Not Rated",
+      "Released": "22 Oct 2015",
+      "Runtime": "137 min",
+      "Genre": "Drama, Family",
+      "Director": "Navaniat Singh",
+      "Writer": "Parveen Kumar, Surmeet Maavi, Dheeraj Rattan",
+      "Actors": "Jimmy Shergill, Mahie Gill, Mukul Dev",
+      "Plot": "The word 'Shareek' may refer to 'sharing' in dictionary but in Punjab it had always been opposite to it. As time flies, one doesn't even notice that how and when the brothers become the enemies of each other. Brothers are brothers...",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDA3ZWVhMjQtYTFhNC00NjNmLTg2MmYtNmMxMmE5ODI4OWFlXkEyXkFqcGdeQXVyMzY1MTkwMDM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "559",
+      "imdbID": "tt4930000",
+      "Type": "movie",
+      "DVD": "23 Mar 2017",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "25 Kille",
+      "Year": "2016",
+      "Rated": "N/A",
+      "Released": "25 Aug 2016",
+      "Runtime": "141 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Simranjit Singh Hundal",
+      "Writer": "Simranjit Singh Hundal, Surmeet Maavi",
+      "Actors": "Ranjha Vikram Singh, Guggu Gill, Yograj Singh",
+      "Plot": "Four brothers receive news of an inheritance and must contend with an unscrupulous landowner to receive their birthright.",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzAyODM3YmQtY2VmNy00MzBhLWEyZmYtYjliMGYwNzc5OTU4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.9",
+      "imdbVotes": "104",
+      "imdbID": "tt5743858",
+      "Type": "movie",
+      "DVD": "23 Mar 2017",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Heer Ranjha: A True Love Story",
+      "Year": "2009",
+      "Rated": "Not Rated",
+      "Released": "13 Nov 2009",
+      "Runtime": "155 min",
+      "Genre": "Romance",
+      "Director": "Ksshitij Chaudhary, Harjit Singh",
+      "Writer": "Harjit Singh",
+      "Actors": "Harbhajan Mann, Neeru Bajwa, Jasbir Jassi",
+      "Plot": "You mention any good usual love story and it will have all the usual emotions of love, longing, pain, quest and sacrifice. But the moment you mention Heer Ranjha, the word 'eternal' is pre fixed to all these emotions eternal love,...",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIxMTg2NjYzMl5BMl5BanBnXkFtZTgwMzc0NDA2MDE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "94",
+      "imdbID": "tt1599302",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Jatt Boys Putt Jattan De",
+      "Year": "2013",
+      "Rated": "N/A",
+      "Released": "23 Aug 2013",
+      "Runtime": "136 min",
+      "Genre": "Action, Comedy, Romance",
+      "Director": "Simranjit Singh Hundal",
+      "Writer": "Prince Kanwaljit Singh",
+      "Actors": "Sippy Gill, Isha Rikhi, Aman Dhaliwal",
+      "Plot": "The Movie story is based on A Generation Gap. This Movie tries to break the gap, keeping the old and new generation intact with there emotions and with there roots. City life and rural life intact. This movie is not revolving arou...",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2E1MDQ1YzQtMjY0YS00NTM2LWFjNTEtMjM4OWRlZjY1YTRmXkEyXkFqcGdeQXVyMzY1MTkwMDM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.1",
+      "imdbVotes": "125",
+      "imdbID": "tt3089920",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Hawayein",
+      "Year": "2003",
+      "Rated": "N/A",
+      "Released": "22 Aug 2003",
+      "Runtime": "176 min",
+      "Genre": "Drama, Romance",
+      "Director": "Amitoj Mann",
+      "Writer": "Amitoj Mann, Harjit Singh",
+      "Actors": "Amitoj Mann, Babbu Mann, Aanandee Tripathi",
+      "Plot": "Set against the backdrop of the 1984 Sikh genocide, Hawayein is a 2003 film directed by Ammtoje Mann. The film is based on some real-life events and features the impact of Operation Bluestar and the subsequent assassination of Ind...",
+      "Language": "Hindi, Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDNiYTVlMTAtZGQzNy00ZGYzLThjNzQtMTM3MGNhMzY1NjQ5XkEyXkFqcGdeQXVyMzI3NjQxOTI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "228",
+      "imdbID": "tt0378025",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$409,978",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Ekam: Son of Soil",
+      "Year": "2010",
+      "Rated": "N/A",
+      "Released": "23 Apr 2010",
+      "Runtime": "148 min",
+      "Genre": "Action, Comedy, Drama",
+      "Director": "Mandeep Benipal",
+      "Writer": "Singh Maan Bikramjit, Master Tarlochan Singh",
+      "Actors": "Babbu Mann, Mandy Takhar, Mohitinder Bawa",
+      "Plot": "Ekam - Son of Soil is a film about family relations and family disputes. It's a triangular love story with full of comedy and emotions. It's about villager's life and a journey of a hero from metro city to a village where he helps...",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTU5YzMxZTQtNzFjMC00MDNlLWE3NGItZWFjNjRkOWU4NGIxXkEyXkFqcGdeQXVyMjUxNjcxMjU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.3",
+      "imdbVotes": "126",
+      "imdbID": "tt1707210",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Desi Romeos",
+      "Year": "2012",
+      "Rated": "N/A",
+      "Released": "15 Jun 2012",
+      "Runtime": "N/A",
+      "Genre": "Music, Musical",
+      "Director": "Shafaq Khan",
+      "Writer": "Babbu Mann",
+      "Actors": "Babbu Mann, Harjit Harman, Vivana Singh",
+      "Plot": "Desi Romeos is a story of six boys who are popular in collage for their music which leads to jealousy of Mirza group. The \"ROMEOS\" are : R-Randy (Babbu Maan), O- Om (Bittu), M-Maana (Sherry), E-(Ehsaas ( Ravi), O-Osho (Mitesh), S-...",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTBlODVmN2UtMjFkNS00NzY3LTlmYjMtZjAwZDI1MTQ1Yjg1XkEyXkFqcGdeQXVyMjUxNjcxMjU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "4.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "4.7",
+      "imdbVotes": "135",
+      "imdbID": "tt2196224",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "Independent Bollywood",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Dil Apna Punjabi",
+      "Year": "2006",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "Drama",
+      "Director": "Manmohan Singh",
+      "Writer": "Baldev Gill, Babu Singh Maan, Amarjit Musapuria",
+      "Actors": "Harbhajan Mann, Neeru Bajwa, Mahek Chahal",
+      "Plot": "Unemployed slacker/trouble-maker, Kanwal Singh Sidhu, is in love with Ladi Kaur, the eldest daughter of Professor Kang Singh. He finds his life turned upside down when not only Professor Kang, but his very own father, Sarpanch Gur...",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGQ3MzMzNGUtZDFjYy00Y2JkLTg0OTgtY2QyNmE0ZjQ5ODI2XkEyXkFqcGdeQXVyMjUxNjcxMjU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "172",
+      "imdbID": "tt0810834",
+      "Type": "movie",
+      "DVD": "14 Nov 2006",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Faraar",
+      "Year": "2015",
+      "Rated": "Not Rated",
+      "Released": "28 Aug 2015",
+      "Runtime": "148 min",
+      "Genre": "Action",
+      "Director": "Baljit Singh Deo",
+      "Writer": "Jass Grewal, Prince Kanwaljit Singh",
+      "Actors": "Gippy Grewal, Kainaat Arora, Jaggi Singh",
+      "Plot": "A man travelling to the United States meets a mysterious woman and gets wrapped up in an investigation when authorities mistake him for a notorious criminal.",
+      "Language": "Punjabi",
+      "Country": "Australia",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmYwZmQ5NGUtNjk5Zi00YTY2LTk1MGItMmQ4NmUxM2FhY2IzXkEyXkFqcGdeQXVyNTE4ODU0NzA@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.3",
+      "imdbVotes": "294",
+      "imdbID": "tt4984868",
+      "Type": "movie",
+      "DVD": "08 Mar 2017",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Sawa Lakh Se Ek Ladaun",
+      "Year": "1976",
+      "Rated": "N/A",
+      "Released": "01 Jan 1976",
+      "Runtime": "135 min",
+      "Genre": "Action, Drama, War",
+      "Director": "Dara Singh Randhawa",
+      "Writer": "Prem Dhawan, Dara Singh Randhawa",
+      "Actors": "Dara Singh Randhawa, Sardar Singh Randhawa, Rajesh Khanna",
+      "Plot": "Sathpura-based Kartar, changes his religion from Hindu to Sikh, enrolls as a rebel to fight the oppressive Mughal rule, goes missing even on his wedding day, and ends up getting married in absentia to Shanno. The rebels liberate K...",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDlkMzk1YjEtZGM2My00NDgyLTk1MWYtZDY2ZDZlMTFkOTIwXkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.5",
+      "imdbVotes": "31",
+      "imdbID": "tt0213220",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Tera Mera Ki Rishta",
+      "Year": "2009",
+      "Rated": "Not Rated",
+      "Released": "04 Apr 2009",
+      "Runtime": "166 min",
+      "Genre": "Drama, Romance",
+      "Director": "Navaniat Singh",
+      "Writer": "Amrik Gill, Jaggi Singh",
+      "Actors": "Raj Babbar, Jitendra Bhardwaj, Binnu Dhillon",
+      "Plot": "Canada-based Meet, along with his pushy mom, Natasha, travel to Punjab, India, in order to attend the wedding of his cousin, Harman Kaur. It is here he rather dramatically meets with Harman's friend, Rajjo, who lives with her wido...",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzAyOTU2YmYtMzhhYy00NzBiLTg1YzctZmUyNWU5ZDUzNmFhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.9",
+      "imdbVotes": "150",
+      "imdbID": "tt1587426",
+      "Type": "movie",
+      "DVD": "30 Nov 2016",
+      "BoxOffice": "$271,942",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Hero Naam Yaad Rakhi",
+      "Year": "2015",
+      "Rated": "Not Rated",
+      "Released": "10 Jul 2015",
+      "Runtime": "101 min",
+      "Genre": "Romance, Thriller",
+      "Director": "Baljit Singh Deo",
+      "Writer": "Manoj Jha, Manoj K. Jha",
+      "Actors": "Jimmy Shergill, Surveen Chawla, Mukul Dev",
+      "Plot": "An Indian man visits his brother in Canada and falls in love with a Indo-Canadian woman and faces a tough task to marry her .",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjNjMTE4ZmQtMTliYy00ZDkzLTlhZTktNjEzYTk3ZWRjOTE5XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.5",
+      "imdbVotes": "148",
+      "imdbID": "tt4846926",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Jatt Airways",
+      "Year": "2013",
+      "Rated": "N/A",
+      "Released": "30 Aug 2013",
+      "Runtime": "135 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Harjit Singh Ricky",
+      "Writer": "Rajan Agarwal, Shishir Pradhan",
+      "Actors": "Alfaaz, Padam Bhola, Tulip Joshi",
+      "Plot": "\"Jatt Airways\" is a story of two brothers who want to get married to two sisters. Due to some misunderstanding between girls and boys they start hating each other. The movie has a lot of funny events which take place along with ro...",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzEyNzI0MGUtYTExNi00NmE1LWFlMzYtMGYzM2IxNmMzMDUzXkEyXkFqcGdeQXVyMzA3MDU4MTk@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "4.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "4.4",
+      "imdbVotes": "193",
+      "imdbID": "tt3084502",
+      "Type": "movie",
+      "DVD": "20 Dec 2018",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Oh My Pyo!",
+      "Year": "2014",
+      "Rated": "N/A",
+      "Released": "13 Jun 2014",
+      "Runtime": "108 min",
+      "Genre": "Comedy",
+      "Director": "Niharika Sahni, Rai Yuvraj Bains",
+      "Writer": "Niharika Sahni, Vakila Mann, Jaswinder Bhalla",
+      "Actors": "Binnu Dhillon, Sardar Sohi, Mehra BhanuShri",
+      "Plot": "Gangter Makes His Illitrate Son Complete His Matriculate in 6 Months",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2FhODcwODYtNWMyMC00ZGUyLTkyNTEtNTI5Y2E2OGU1OGRjXkEyXkFqcGdeQXVyMjUxNjcxMjU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.5",
+      "imdbVotes": "158",
+      "imdbID": "tt3307450",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Jatts in Golmaal",
+      "Year": "2013",
+      "Rated": "Not Rated",
+      "Released": "24 May 2013",
+      "Runtime": "129 min",
+      "Genre": "Comedy",
+      "Director": "Ksshitij Chaudhary, R. Raja",
+      "Writer": "Naresh Kathooria",
+      "Actors": "Arya Babbar, Binnu Dhillon, Gurpreet Ghuggi",
+      "Plot": "Binnu Dhillon plays a gang leader who has a heart problem. The doctor recommends him to get a new heart transplant. Unable to find any healthy donor in his gang, due to some sort of a drinking or drug abuse problem with each membe...",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjJiZmZjOWItMjBiOS00OThjLWJlMmItOTNiZDg3NzNmMjc3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.3",
+      "imdbVotes": "417",
+      "imdbID": "tt2805974",
+      "Type": "movie",
+      "DVD": "28 May 2016",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Manje Bistre",
+      "Year": "2017",
+      "Rated": "N/A",
+      "Released": "14 Apr 2017",
+      "Runtime": "137 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Baljit Singh Deo",
+      "Writer": "Gippy Grewal, Rana Ranbir",
+      "Actors": "Gippy Grewal, Sonam Bajwa, Karamjit Anmol",
+      "Plot": "While getting prepared for his sister's wedding, a young man attempts to woo a girl whose marriage to another man has already been fixed.",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "1 win & 3 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODE4YWNmMjMtNDQxYy00ZWY1LWJmYmMtN2M4NzdiYjg5NmE4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.5",
+      "imdbVotes": "1,053",
+      "imdbID": "tt6705612",
+      "Type": "movie",
+      "DVD": "11 Aug 2017",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Nikka Zaildar",
+      "Year": "2016",
+      "Rated": "N/A",
+      "Released": "30 Sep 2016",
+      "Runtime": "134 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Simerjit Singh",
+      "Writer": "Jagdeep Sidhu",
+      "Actors": "Ammy Virk, Sonam Bajwa, Karamjit Anmol",
+      "Plot": "A young man concocts a scheme to marry a reluctant fellow student, but finds the task more difficult than it first appeared.",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmU1MGRlNGUtMjVlMC00YzBmLWJlMzktYmY5MjJkM2JiZjlhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "1,225",
+      "imdbID": "tt6047120",
+      "Type": "movie",
+      "DVD": "17 Jul 2020",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Super Singh",
+      "Year": "2017",
+      "Rated": "N/A",
+      "Released": "16 Jun 2017",
+      "Runtime": "155 min",
+      "Genre": "Action, Comedy, Fantasy",
+      "Director": "Anurag Singh",
+      "Writer": "Anurag Singh, Dheeraj Rattan, Jagdeep Sidhu",
+      "Actors": "Diljit Dosanjh, Sonam Bajwa, Pawan Malhotra",
+      "Plot": "A man's life changes after he unknowingly gets super powers and then embarks on a journey that helps him discover the true meaning of love, life, courage, sacrifice, and his role in the world.",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "2 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2EwMjEyYjgtYmU4OC00NmM4LWEyYzktODUxZTFlOWRjNDQ1XkEyXkFqcGdeQXVyNDY2ODEyMw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.8",
+      "imdbVotes": "747",
+      "imdbID": "tt5891348",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Jindua",
+      "Year": "2017",
+      "Rated": "N/A",
+      "Released": "17 Mar 2017",
+      "Runtime": "136 min",
+      "Genre": "Family",
+      "Director": "Navaniat Singh",
+      "Writer": "Dheeraj Rattan",
+      "Actors": "Jimmy Shergill, Sargun Mehta, Neeru Bajwa",
+      "Plot": "In Calgary, a young Indian man attempts to gain citizenship by marrying a woman wanting to be a rock star while harboring feelings for the girl next door.",
+      "Language": "Punjabi",
+      "Country": "India",
+      "Awards": "2 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWE5ZTA1MGYtMGRjNy00NWYxLWFmNTEtNTQ5MDFjYWQ2MzY2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjI4NjcyNjU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.3",
+      "imdbVotes": "327",
+      "imdbID": "tt5917052",
+      "Type": "movie",
+      "DVD": "01 Dec 2019",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  ]

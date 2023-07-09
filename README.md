@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4954e38a-f5a4-4f03-8274-fb50843004f7/deploy-status)](https://app.netlify.com/sites/pensive-joliot-eb7d63/deploys)
 
-This is a Pollywood spinoff of the [Hollywood Hangman](https://www.hollywoodhangman.com/) by [Mark Harless](https://github.com/harlessmark) and Bollywood Hangman by Aadit Kamat[https://linkedin.com/in/aaditkamat]. The movie IDs are obtained with the help of chatGPT or it could be sceraped with the scraper that is provided with the code. You do have to have OMDB API key to use it.
+This is a Pollywood spinoff of the [Hollywood Hangman](https://www.hollywoodhangman.com/) by [Mark Harless](https://github.com/harlessmark) and Bollywood Hangman by Aadit Kamat[https://linkedin.com/in/aaditkamat]. The movie IDs are obtained with the help of chatGPT or it could be scraped with the scraper that is provided with the code. You do have to have OMDB API key to use it.
 
 ## Built With
 
