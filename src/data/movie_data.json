@@ -1,509 +1,285 @@
 [
-    {
+  {
       "Title": "Carry On Jatta",
       "Year": "2012",
       "Director": "Smeep Kang",
       "Plot": "Jass falls in love with Mahie who wants to marry an orphan, so he lies to her and tells her he has no family, and finds himself in hilarious situations when he has to hide the truth once they get married.",
       "imdbID": "tt2327251",
       "Actors": "Gippy Grewal, Mahie Gill, Gurpreet Ghuggi, Binnu Dhillon"
-    },
-    {
+  },
+  {
       "Title": "Angrej",
       "Year": "2015",
       "Director": "Simerjit Singh",
       "Plot": "A thoughtful young man struggles to find a woman to marry.",
       "imdbID": "tt4846952",
       "Actors": "Amrinder Gill, Sargun Mehta, Aditi Sharma, Binnu Dhillon"
-    },
-    {
+  },
+  {
       "Title": "Sardaar Ji",
       "Year": "2015",
       "Director": "Rohit Jugraj",
       "Plot": "A ghost hunter uses bottles to capture troublesome spirits.",
       "imdbID": "tt4900716",
       "Actors": "Diljit Dosanjh, Neeru Bajwa, Mandy Takhar, Jaswinder Bhalla"
-    },
-    {
+  },
+  {
       "Title": "Ambarsariya",
       "Year": "2016",
       "Director": "Mandeep Kumar",
       "Plot": "A secret agent who is posing as an insurance salesman tries to find an assassin, while also trying to juggle three women.",
       "imdbID": "tt5638474",
       "Actors": "Diljit Dosanjh, Monica Gill, Navneet Kaur Dhillon, Lauren Gottlieb"
-    },
-    {
+  },
+  {
       "Title": "Qismat",
       "Year": "2018",
       "Director": "Jagdeep Sidhu",
       "Plot": "A young man falls in love with a woman, but their lives are complicated by the secrets of their past.",
       "imdbID": "tt8826404",
       "Actors": "Ammy Virk, Sargun Mehta, Guggu Gill, Tania"
-    },
-    {
+  },
+  {
       "Title": "Lahoriye",
       "Year": "2017",
       "Director": "Amberdeep Singh",
       "Plot": "A young man from a farming family falls in love with a Pakistani girl, but the tension between their countries creates obstacles for their relationship.",
       "imdbID": "tt6878484",
       "Actors": "Amrinder Gill, Sargun Mehta, Yuvraj Hans, Nimrat Khaira"
-    },
-    {
+  },
+  {
       "Title": "Rabb Da Radio",
       "Year": "2017",
       "Director": "Tarnvir Singh Jagpal, Harry Bhatti",
       "Plot": "The film is a family drama based on the lives of two brothers who reunite after a long time and face challenges from the past.",
       "imdbID": "tt6747818",
       "Actors": "Tarsem Jassar, Simi Chahal, Mandy Takhar, Nirmal Rishi"
-    },
-    {
+  },
+  {
       "Title": "Jatt & Juliet",
       "Year": "2012",
       "Director": "Anurag Singh",
       "Plot": "A young woman falls in love with a goon, but to marry him, she needs to convince her conservative parents.",
       "imdbID": "tt2140465",
       "Actors": "Diljit Dosanjh, Neeru Bajwa, Jaswinder Bhalla, Upasna Singh"
-    },
-    {
+  },
+  {
       "Title": "Laung Laachi",
       "Year": "2018",
       "Director": "Amberdeep Singh",
       "Plot": "A newly married woman is shocked to discover that her husband has been secretly in love with another woman.",
       "imdbID": "tt8249696",
       "Actors": "Ammy Virk, Neeru Bajwa, Amberdeep Singh, Amrit Maan"
-    },
-    {
+  },
+  {
       "Title": "Manje Bistre",
       "Year": "2017",
       "Director": "Baljit Singh Deo",
       "Plot": "While on a visit to his village for a wedding, a man tries to impress his future in-laws but ends up creating havoc.",
       "imdbID": "tt6527426",
       "Actors": "Gippy Grewal, Sonam Bajwa, Karamjit Anmol, Gurpreet Ghuggi"
-    },
-    {
+  },
+  {
       "Title": "Chal Mera Putt",
       "Year": "2019",
       "Director": "Janjot Singh",
       "Plot": "A group of illegal immigrants living in the UK face challenges while trying to earn money and deal with their visa status.",
       "imdbID": "tt10591684",
       "Actors": "Amrinder Gill, Simi Chahal, Iftikhar Thakur, Nasir Chinyoti"
-    },
-    {
+  },
+  {
       "Title": "Nikka Zaildar",
       "Year": "2016",
       "Director": "Simerjit Singh",
       "Plot": "A young man is forced to marry a woman against his will, and he tries to find a way to escape the situation.",
       "imdbID": "tt6185168",
       "Actors": "Ammy Virk, Sonam Bajwa, Karamjit Anmol, Nirmal Rishi"
-    },
-    {
+  },
+  {
       "Title": "Sajjan Singh Rangroot",
       "Year": "2018",
       "Director": "Pankaj Batra",
       "Plot": "A soldier in the British Indian Army faces challenges and forms a bond with his fellow soldiers during World War I.",
       "imdbID": "tt8021276",
       "Actors": "Diljit Dosanjh, Yograj Singh, Sunanda Sharma, Jagjeet Sandhu"
-    },
-    {
+  },
+  {
       "Title": "Daana Paani",
       "Year": "2018",
       "Director": "Tarnvir Singh Jagpal",
       "Plot": "A love story set in the backdrop of India-Pakistan partition in 1962.",
       "imdbID": "tt8012052",
       "Actors": "Jimmy Sheirgill, Simi Chahal, Gurpreet Ghuggi, Nirmal Rishi"
-    },
-    {
+  },
+  {
       "Title": "Qissa Panjab",
       "Year": "2015",
       "Director": "Jatinder Mauhar",
       "Plot": "The lives of six individuals get intertwined in the urban backdrop of modern-day Punjab.",
       "imdbID": "tt4937810",
       "Actors": "Preet Bhulla, Kul Sidhu, Dheeraj Kumar, Jagjeet Sandhu"
-    },
-    {
+  },
+  {
       "Title": "Vekh Baraatan Challiyan",
       "Year": "2017",
       "Director": "Ksshitij Chaudhary",
       "Plot": "Two families have different views on marriage, and their children decide to get married against their parents' wishes, leading to humorous and dramatic situations.",
       "imdbID": "tt7048082",
       "Actors": "Binnu Dhillon, Kavita Kaushik, Karamjit Anmol, Jaswinder Bhalla"
-    },
-    {
+  },
+  {
       "Title": "Goreyan Nu Daffa Karo",
       "Year": "2014",
       "Director": "Pankaj Batra",
       "Plot": "A young man falls in love with a girl from a rival village and faces opposition from their families.",
       "imdbID": "tt3679060",
       "Actors": "Amrinder Gill, Binnu Dhillon, Yograj Singh, Rana Ranbir"
-    },
-    {
+  },
+  {
       "Title": "Sufna",
       "Year": "2020",
       "Director": "Jagdeep Sidhu",
       "Plot": "A young man's life changes when he falls in love with a village girl and faces challenges to win her over.",
       "imdbID": "tt10748042",
       "Actors": "Ammy Virk, Tania, Jagjeet Sandhu, Balwinder Bullet"
-    },
-    {
+  },
+  {
       "Title": "Jindua",
       "Year": "2017",
       "Director": "Navaniat Singh",
       "Plot": "A young man falls in love with a woman who is already engaged to someone else, and they face challenges to be together.",
       "imdbID": "tt6550886",
       "Actors": "Jimmy Sheirgill, Neeru Bajwa, Sargun Mehta, Rajiv Thakur"
-    },
-    {
-      "Title": "Sajjan Singh Rangroot",
-      "Year": "2018",
-      "Director": "Pankaj Batra",
-      "Plot": "A soldier in the British Indian Army faces challenges and forms a bond with his fellow soldiers during World War I.",
-      "imdbID": "tt8021276",
-      "Actors": "Diljit Dosanjh, Yograj Singh, Sunanda Sharma, Jagjeet Sandhu"
-    },
-    {
-      "Title": "Qismat",
-      "Year": "2018",
-      "Director": "Jagdeep Sidhu",
-      "Plot": "A young man falls in love with a woman, but their lives are complicated by the secrets of their past.",
-      "imdbID": "tt8826404",
-      "Actors": "Ammy Virk, Sargun Mehta, Guggu Gill, Tania"
-    },
-    {
-      "Title": "Laung Laachi",
-      "Year": "2018",
-      "Director": "Amberdeep Singh",
-      "Plot": "A newly married woman is shocked to discover that her husband has been secretly in love with another woman.",
-      "imdbID": "tt8249696",
-      "Actors": "Ammy Virk, Neeru Bajwa, Amberdeep Singh, Amrit Maan"
-    },
-    {
-      "Title": "Jatt & Juliet",
-      "Year": "2012",
-      "Director": "Anurag Singh",
-      "Plot": "A young woman falls in love with a goon, but to marry him, she needs to convince her conservative parents.",
-      "imdbID": "tt2140465",
-      "Actors": "Diljit Dosanjh, Neeru Bajwa, Jaswinder Bhalla, Upasna Singh"
-    },
-    {
-      "Title": "Ambarsariya",
-      "Year": "2016",
-      "Director": "Mandeep Kumar",
-      "Plot": "A secret agent who is posing as an insurance salesman tries to find an assassin, while also trying to juggle three women.",
-      "imdbID": "tt5638474",
-      "Actors": "Diljit Dosanjh, Monica Gill, Navneet Kaur Dhillon, Lauren Gottlieb"
-    },
-    {
-      "Title": "Carry On Jatta",
-      "Year": "2012",
-      "Director": "Smeep Kang",
-      "Plot": "Jass falls in love with Mahie who wants to marry an orphan, so he lies to her and tells her he has no family, and finds himself in hilarious situations when he has to hide the truth once they get married.",
-      "imdbID": "tt2327251",
-      "Actors": "Gippy Grewal, Mahie Gill, Gurpreet Ghuggi, Binnu Dhillon"
-    },
-    {
+  },
+  {
       "Title": "Qismat 2",
       "Year": "2021",
       "Director": "Jagdeep Sidhu",
       "Plot": "The sequel to the hit film 'Qismat'. It follows the love story of a young couple and the challenges they face.",
       "imdbID": "tt13323636",
       "Actors": "Ammy Virk, Sargun Mehta, Tania, Garry Sandhu"
-    },
-    {
+  },
+  {
       "Title": "Nikka Zaildar 2",
       "Year": "2017",
       "Director": "Simerjit Singh",
       "Plot": "A young man's life turns upside down when he gets married to a woman who seems to have ulterior motives.",
       "imdbID": "tt7068084",
       "Actors": "Ammy Virk, Sonam Bajwa, Wamiqa Gabbi, Nirmal Rishi"
-    },
-    {
+  },
+  {
       "Title": "Muklawa",
       "Year": "2019",
       "Director": "Simerjit Singh",
       "Plot": "A newly married couple is unable to consummate their marriage due to a family tradition, and they face challenges to be together.",
       "imdbID": "tt10179012",
       "Actors": "Ammy Virk, Sonam Bajwa, Sarbjit Cheema, Gurpreet Ghuggi"
-    },
-    {
+  },
+  {
       "Title": "Carry on Jatta 2",
       "Year": "2018",
       "Director": "Smeep Kang",
       "Plot": "A young man's life turns upside down when his past catches up with him and creates chaos in his love life.",
       "imdbID": "tt8208990",
       "Actors": "Gippy Grewal, Sonam Bajwa, Binnu Dhillon, Jaswinder Bhalla"
-    },
-    {
-      "Title": "Jindua",
-      "Year": "2017",
-      "Director": "Navaniat Singh",
-      "Plot": "A young man falls in love with a woman who is already engaged to someone else, and they face challenges to be together.",
-      "imdbID": "tt6550886",
-      "Actors": "Jimmy Sheirgill, Neeru Bajwa, Sargun Mehta, Rajiv Thakur"
-    },
-    {
+  },
+  {
       "Title": "Bhaji in Problem",
       "Year": "2013",
       "Director": "Smeep Kang",
       "Plot": "A man gets entangled in a complex web of lies when he pretends to be married in order to get a job.",
       "imdbID": "tt3246116",
       "Actors": "Gippy Grewal, Misha Bajwa, Karamjit Anmol, Gurpreet Ghuggi"
-    },
-    {
+  },
+  {
       "Title": "Carry on Jatta",
       "Year": "2012",
       "Director": "Smeep Kang",
       "Plot": "Jass falls in love with Mahie who wants to marry an orphan, so he lies to her and tells her he has no family, and finds himself in hilarious situations when he has to hide the truth once they get married.",
       "imdbID": "tt2327251",
       "Actors": "Gippy Grewal, Mahie Gill, Gurpreet Ghuggi, Binnu Dhillon"
-    },
-    {
+  },
+  {
       "Title": "Sardaarji 2",
       "Year": "2016",
       "Director": "Rohit Jugraj",
       "Plot": "A ghost hunter gets into trouble when his ex-girlfriend seeks his help to get rid of an evil spirit.",
       "imdbID": "tt5354384",
       "Actors": "Diljit Dosanjh, Sonam Bajwa, Monica Gill, Jaswinder Bhalla"
-    },
-    {
-      "Title": "Nikka Zaildar",
-      "Year": "2016",
-      "Director": "Simerjit Singh",
-      "Plot": "A young man is forced to marry a woman against his will, and he tries to find a way to escape the situation.",
-      "imdbID": "tt6185168",
-      "Actors": "Ammy Virk, Sonam Bajwa, Karamjit Anmol, Nirmal Rishi"
-    },
-    {
-      "Title": "Manje Bistre",
-      "Year": "2017",
-      "Director": "Baljit Singh Deo",
-      "Plot": "While on a visit to his village for a wedding, a man tries to impress his future in-laws but ends up creating havoc.",
-      "imdbID": "tt6527426",
-      "Actors": "Gippy Grewal, Sonam Bajwa, Karamjit Anmol, Gurpreet Ghuggi"
-    },
-    {
-      "Title": "Lahoriye",
-      "Year": "2017",
-      "Director": "Amberdeep Singh",
-      "Plot": "A young man from a farming family falls in love with a Pakistani girl, but the tension between their countries creates obstacles for their relationship.",
-      "imdbID": "tt6878484",
-      "Actors": "Amrinder Gill, Sargun Mehta, Yuvraj Hans, Nimrat Khaira"
-    },
-    {
-      "Title": "Daana Paani",
-      "Year": "2018",
-      "Director": "Tarnvir Singh Jagpal",
-      "Plot": "A love story set in the backdrop of India-Pakistan partition in 1962.",
-      "imdbID": "tt8012052",
-      "Actors": "Jimmy Sheirgill, Simi Chahal, Gurpreet Ghuggi, Nirmal Rishi"
-    },
-    {
-      "Title": "Vekh Baraatan Challiyan",
-      "Year": "2017",
-      "Director": "Ksshitij Chaudhary",
-      "Plot": "Two families have different views on marriage, and their children decide to get married against their parents' wishes, leading to humorous and dramatic situations.",
-      "imdbID": "tt7048082",
-      "Actors": "Binnu Dhillon, Kavita Kaushik, Karamjit Anmol, Jaswinder Bhalla"
-    },
-    {
-      "Title": "Goreyan Nu Daffa Karo",
-      "Year": "2014",
-      "Director": "Pankaj Batra",
-      "Plot": "A young man falls in love with a girl from a rival village and faces opposition from their families.",
-      "imdbID": "tt3679060",
-      "Actors": "Amrinder Gill, Binnu Dhillon, Yograj Singh, Rana Ranbir"
-    },
-    {
+  },
+  {
       "Title": "Jatt & Juliet 2",
       "Year": "2013",
       "Director": "Anurag Singh",
       "Plot": "A newly married couple faces challenges when they move to Canada and try to settle into their new life.",
       "imdbID": "tt3024946",
       "Actors": "Diljit Dosanjh, Neeru Bajwa, Jaswinder Bhalla, Binnu Dhillon"
-    },
-    {
+  },
+  {
       "Title": "Ardaas Karaan",
       "Year": "2019",
       "Director": "Gippy Grewal",
       "Plot": "Three elderly men set out on a journey to meet their children and discover the true meaning of life.",
       "imdbID": "tt10324102",
       "Actors": "Gurpreet Ghuggi, Sapna Pabbi, Malkeet Rauni, Rana Ranbir"
-    },
-    {
-      "Title": "Sufna",
-      "Year": "2020",
-      "Director": "Jagdeep Sidhu",
-      "Plot": "A young man's life changes when he falls in love with a village girl and faces challenges to win her over.",
-      "imdbID": "tt10748042",
-      "Actors": "Ammy Virk, Tania, Jagjeet Sandhu, Balwinder Bullet"
-    },
-    {
-      "Title": "Qismat",
-      "Year": "2018",
-      "Director": "Jagdeep Sidhu",
-      "Plot": "A young man falls in love with a woman, but their lives are complicated by the secrets of their past.",
-      "imdbID": "tt8826404",
-      "Actors": "Ammy Virk, Sargun Mehta, Guggu Gill, Tania"
-    },
-    {
-      "Title": "Laung Laachi",
-      "Year": "2018",
-      "Director": "Amberdeep Singh",
-      "Plot": "A newly married woman is shocked to discover that her husband has been secretly in love with another woman.",
-      "imdbID": "tt8249696",
-      "Actors": "Ammy Virk, Neeru Bajwa, Amberdeep Singh, Amrit Maan"
-    },
-    {
-      "Title": "Qismat 2",
-      "Year": "2021",
-      "Director": "Jagdeep Sidhu",
-      "Plot": "The sequel to the hit film 'Qismat'. It follows the love story of a young couple and the challenges they face.",
-      "imdbID": "tt13323636",
-      "Actors": "Ammy Virk, Sargun Mehta, Tania, Garry Sandhu"
-    },
-    {
-      "Title": "Nikka Zaildar 2",
-      "Year": "2017",
-      "Director": "Simerjit Singh",
-      "Plot": "A young man's life turns upside down when he gets married to a woman who seems to have ulterior motives.",
-      "imdbID": "tt7068084",
-      "Actors": "Ammy Virk, Sonam Bajwa, Wamiqa Gabbi, Nirmal Rishi"
-    },
-    {
-      "Title": "Muklawa",
-      "Year": "2019",
-      "Director": "Simerjit Singh",
-      "Plot": "A newly married couple is unable to consummate their marriage due to a family tradition, and they face challenges to be together.",
-      "imdbID": "tt10179012",
-      "Actors": "Ammy Virk, Sonam Bajwa, Sarbjit Cheema, Gurpreet Ghuggi"
-    },
-    {
-      "Title": "Carry on Jatta 2",
-      "Year": "2018",
-      "Director": "Smeep Kang",
-      "Plot": "A young man's life turns upside down when his past catches up with him and creates chaos in his love life.",
-      "imdbID": "tt8208990",
-      "Actors": "Gippy Grewal, Sonam Bajwa, Binnu Dhillon, Jaswinder Bhalla"
-    },
-    {
+  },
+  {
       "Title": "Ardaas",
       "Year": "2016",
       "Director": "Gippy Grewal",
       "Plot": "A man comes back to his village and unites the community through his prayers.",
       "imdbID": "tt5087996",
       "Actors": "Ammy Virk, Gurpreet Ghuggi, B.N. Sharma, Rana Ranbir"
-    },
-    {
-      "Title": "Jatt & Juliet",
-      "Year": "2012",
-      "Director": "Anurag Singh",
-      "Plot": "A young woman falls in love with a goon, but to marry him, she needs to convince her conservative parents.",
-      "imdbID": "tt2140465",
-      "Actors": "Diljit Dosanjh, Neeru Bajwa, Jaswinder Bhalla, Upasna Singh"
-    },
-    {
-      "Title": "Angrej",
-      "Year": "2015",
-      "Director": "Simerjit Singh",
-      "Plot": "A thoughtful young man struggles to find a woman to marry.",
-      "imdbID": "tt4846952",
-      "Actors": "Amrinder Gill, Sargun Mehta, Aditi Sharma, Binnu Dhillon"
-    },
-    {
+  },
+  {
       "Title": "Guddiyan Patole",
       "Year": "2019",
       "Director": "Vijay Kumar Arora",
       "Plot": "Two sisters visit their maternal family in Punjab and fall in love with local boys.",
       "imdbID": "tt9407028",
       "Actors": "Gurnam Bhullar, Sonam Bajwa, Tania, Nirmal Rishi"
-    },
-    {
+  },
+  {
       "Title": "Laavaan Phere",
       "Year": "2018",
       "Director": "Smeep Kang",
       "Plot": "A young man is unable to get married due to a family curse, and he seeks the help of a wedding planner to break the curse.",
       "imdbID": "tt7912212",
       "Actors": "Roshan Prince, Rubina Bajwa, Karamjit Anmol, B.N. Sharma"
-    },
-    {
-      "Title": "Sajjan Singh Rangroot",
-      "Year": "2018",
-      "Director": "Pankaj Batra",
-      "Plot": "A soldier in the British Indian Army faces challenges and forms a bond with his fellow soldiers during World War I.",
-      "imdbID": "tt8021276",
-      "Actors": "Diljit Dosanjh, Yograj Singh, Sunanda Sharma, Jagjeet Sandhu"
-    },
-    {
-      "Title": "Chal Mera Putt",
-      "Year": "2019",
-      "Director": "Janjot Singh",
-      "Plot": "A group of illegal immigrants living in the UK face challenges while trying to earn money and deal with their visa status.",
-      "imdbID": "tt10591684",
-      "Actors": "Amrinder Gill, Simi Chahal, Iftikhar Thakur, Nasir Chinyoti"
-    },
-    {
+  },
+  {
       "Title": "Nikka Zaildar 3",
       "Year": "2019",
       "Director": "Simerjit Singh",
       "Plot": "Nikka falls in love with a girl, but their families have different views on marriage, leading to humorous and dramatic situations.",
       "imdbID": "tt10427288",
       "Actors": "Ammy Virk, Wamiqa Gabbi, Sonia Kaur, Nirmal Rishi"
-    },
-    {
+  },
+  {
       "Title": "Mitti Na Pharol Jogiya",
       "Year": "2015",
       "Director": "Avtar Singh",
       "Plot": "A young man's life changes when he decides to stand up against a corrupt politician in his village.",
       "imdbID": "tt4930574",
       "Actors": "Kartar Cheema, Amann Grewal, Aman Dhaliwal, Japtej Singh"
-    },
-    {
+  },
+  {
       "Title": "Mar Gaye Oye Loko",
       "Year": "2018",
       "Director": "Simerjit Singh",
       "Plot": "A man's soul enters the body of another man, leading to humorous and chaotic situations.",
       "imdbID": "tt8983164",
       "Actors": "Gippy Grewal, Binnu Dhillon, Sapna Pabbi, Jaswinder Bhalla"
-    },
-    {
+  },
+  {
       "Title": "Arjan",
       "Year": "2017",
       "Director": "Manduip Singh",
       "Plot": "A young man fights against the corrupt education system and tries to bring about positive changes.",
       "imdbID": "tt6206552",
       "Actors": "Roshan Prince, Prachi Tehlan, B.N. Sharma, Nirmal Rishi"
-    },
-    {
-      "Title": "Carry on Jatta",
-      "Year": "2012",
-      "Rated": "N/A",
-      "Released": "27 Jul 2012",
-      "Runtime": "143 min",
-      "Genre": "Comedy",
-      "Director": "Smeep Kang",
-      "Writer": "Smeep Kang, Naresh Kathooria, Sukhdeep Singh Sandhu",
-      "Actors": "Gippy Grewal, Mahie Gill, Gurpreet Ghuggi",
-      "Plot": "Jass falls in love with Mahie who wants to marry an orphan, so he lies to her and tells her he has no family, and finds himself in hilarious situations when he has to hide the truth once they get married.",
-      "Language": "Punjabi",
-      "Country": "India",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYTdhMGIzNDAtNGJlNi00MTJhLThkOWYtZTM4MTg0OGY1ZGU4XkEyXkFqcGdeQXVyMzc0NzU5MTc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.3/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "8.3",
-      "imdbVotes": "3,448",
-      "imdbID": "tt2245544",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Lucky DI Unlucky Story",
       "Year": "2013",
       "Rated": "N/A",
@@ -519,10 +295,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZDZlOGNkOTYtY2RjYi00M2U2LWI2YTgtOTg3YjgzYjA3MzQwXkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.8/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "6.8/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "6.8",
@@ -534,8 +310,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Ucha Dar Babe Nanak Da",
       "Year": "1987",
       "Rated": "N/A",
@@ -551,10 +327,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTM4ODAwMTQtMzk3Yy00MzJmLWIwMjMtNDhkZjUwYTE2MDViXkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.4/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "8.4/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "8.4",
@@ -566,40 +342,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
-      "Title": "Jatt & Juliet 2",
-      "Year": "2013",
-      "Rated": "N/A",
-      "Released": "28 Jun 2013",
-      "Runtime": "140 min",
-      "Genre": "Comedy, Romance",
-      "Director": "Anurag Singh",
-      "Writer": "Dheeraj Rattan, Amberdeep Singh, Anurag Singh",
-      "Actors": "Diljit Dosanjh, Neeru Bajwa, Jaswinder Bhalla",
-      "Plot": "Two Punjab Police officers head to Canada to solve on a mission. When they get to Canada, their mission isn't as simple as what they first thought.",
-      "Language": "Punjabi",
-      "Country": "Canada, India",
-      "Awards": "4 wins",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNmU1NGMxZWUtOWMwMi00MzM2LTgxMDgtMTVjYWZmYmEwZGJiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.3/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "7.3",
-      "imdbVotes": "2,078",
-      "imdbID": "tt2673882",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Dharti",
       "Year": "2011",
       "Rated": "Not Rated",
@@ -615,10 +359,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2ZmZTg3YzAtZmE1Mi00YTk5LWEzNGEtM2UyZjRkYTFiYmE3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.2/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "7.2/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "7.2",
@@ -630,8 +374,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Waris Shah: Ishq Daa Waaris",
       "Year": "2006",
       "Rated": "N/A",
@@ -647,10 +391,10 @@
       "Awards": "2 wins",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDA2NzU3ODctNGVhOC00ZTNjLWE5ZDUtZjA1MTlhMGZkM2JjXkEyXkFqcGdeQXVyNjU1NjQxMTE@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.6/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "7.6/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "7.6",
@@ -662,40 +406,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
-      "Title": "Jatt & Juliet",
-      "Year": "2012",
-      "Rated": "N/A",
-      "Released": "29 Jun 2012",
-      "Runtime": "140 min",
-      "Genre": "Comedy, Romance",
-      "Director": "Anurag Singh",
-      "Writer": "Dheeraj Rattan",
-      "Actors": "Diljit Dosanjh, Neeru Bajwa, Jaswinder Bhalla",
-      "Plot": "Stark opposites, Fateh Singh and Pooja reach Canada with dreams in their eyes. They cross paths and sparks fly. However, life has a different plan for them.",
-      "Language": "Punjabi",
-      "Country": "India, Canada",
-      "Awards": "5 wins",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNmY1YjI1OTUtMDRlNC00Nzc3LTg4OGYtNjU0NjRiMmE0ZWI2XkEyXkFqcGdeQXVyNjE4MTE3MDY@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.5/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "7.5",
-      "imdbVotes": "2,723",
-      "imdbID": "tt2196254",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Naughty Jatts",
       "Year": "2013",
       "Rated": "Not Rated",
@@ -711,10 +423,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMWI4NTlmMmMtOWYyZC00NGEzLTk2ZTQtMWRiZDVjZDkwZjJlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.2/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "6.2/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "6.2",
@@ -726,8 +438,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Shaheed Uddham Singh: Alais Ram Mohammad Singh Azad",
       "Year": "2000",
       "Rated": "N/A",
@@ -743,10 +455,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTJmMDc1YmItZTRiMC00ZGI3LWI2OGYtMWI3NWEwNzIyZjBhXkEyXkFqcGdeQXVyMjUxNjcxMjU@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.8/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "7.8/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "7.8",
@@ -758,8 +470,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Singh vs. Kaur",
       "Year": "2013",
       "Rated": "N/A",
@@ -775,10 +487,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjlmMzUzNGItYjJlYi00MjE1LWEyNjYtMjEwM2QzYTljN2E3XkEyXkFqcGdeQXVyNjE4MTE3MDY@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.6/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "6.6/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "6.6",
@@ -790,8 +502,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Chaar Sahibzaade",
       "Year": "2014",
       "Rated": "Unrated",
@@ -807,10 +519,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNTNmMDQxYjEtZWNiMS00NTgwLWI1MzctYTY4ODNhOGNlM2FhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.7/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "7.7/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "7.7",
@@ -822,8 +534,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Hashar: A Love Story...",
       "Year": "2008",
       "Rated": "Not Rated",
@@ -839,10 +551,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOWYxOWFjMTctMWZhMy00NDRiLTg3MzYtMGEyZjBmMDU2OGE0XkEyXkFqcGdeQXVyNjUzNzU5MTQ@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.2/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "7.2/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "7.2",
@@ -854,8 +566,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Jee Aayan Nu",
       "Year": "2003",
       "Rated": "Not Rated",
@@ -871,10 +583,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BM2Q1ZGMzYmYtNWFjNy00NmRiLWJjYTEtNDIzNTQ5NTQ5Y2M1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.3/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "6.3/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "6.3",
@@ -886,40 +598,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
-      "Title": "Angrej",
-      "Year": "2015",
-      "Rated": "Not Rated",
-      "Released": "31 Jul 2015",
-      "Runtime": "130 min",
-      "Genre": "Romance",
-      "Director": "Simerjit Singh",
-      "Writer": "Amberdeep Singh",
-      "Actors": "Amrinder Gill, Sargun Mehta, Aditi Sharma",
-      "Plot": "A thoughtful young man struggles to find a woman to marry.",
-      "Language": "Punjabi",
-      "Country": "India",
-      "Awards": "5 wins & 2 nominations",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BY2Q5NjlmODUtYjkzOS00NjY3LThjNGQtY2YzYTdjYjRmNzAzXkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.5/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "8.5",
-      "imdbVotes": "3,537",
-      "imdbID": "tt4846952",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Ishq Garaari",
       "Year": "2013",
       "Rated": "N/A",
@@ -935,10 +615,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMGViMmIyOGQtMzI5NC00NDk3LThiMjctN2E4MjFkMDkyYmY5XkEyXkFqcGdeQXVyNjE4MTE3MDY@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "5.8/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "5.8/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "5.8",
@@ -950,8 +630,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Nanak Naam Jahaz Hai",
       "Year": "1969",
       "Rated": "N/A",
@@ -967,10 +647,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZDk3MmJkYzYtNTk5My00ODMxLWJiMmQtNmZjOWNhYjQxOTMxXkEyXkFqcGdeQXVyNDc4NDIxMTU@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.6/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "8.6/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "8.6",
@@ -982,8 +662,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Bha Ji in Problem",
       "Year": "2013",
       "Rated": "N/A",
@@ -999,10 +679,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDI4ZjkzZjUtNWIxMC00MThmLWJjOWMtNjFmOTEyYTJjZmI4XkEyXkFqcGdeQXVyNjE4MTE3MDY@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.1/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "7.1/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "7.1",
@@ -1014,8 +694,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Patola",
       "Year": "1988",
       "Rated": "N/A",
@@ -1041,8 +721,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Jihne Mera Dil Luteya",
       "Year": "2011",
       "Rated": "N/A",
@@ -1058,10 +738,10 @@
       "Awards": "3 wins",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjkwMTE3MDAtYjBiMi00NmViLTg0NWItMzg0MTk1N2EyYjQzXkEyXkFqcGdeQXVyNjE4MTE3MDY@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.4/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "7.4/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "7.4",
@@ -1073,8 +753,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Punjab 1984",
       "Year": "2014",
       "Rated": "N/A",
@@ -1090,10 +770,10 @@
       "Awards": "7 wins",
       "Poster": "https://m.media-amazon.com/images/M/MV5BM2M1MGQyNjgtYWQ2My00MDViLWFkMDMtOTY2NDc0OTcxN2RlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.3/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "8.3/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "8.3",
@@ -1105,8 +785,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Oye Hoye Pyar Ho Gaya",
       "Year": "2013",
       "Rated": "N/A",
@@ -1122,10 +802,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjgzZGU4N2UtN2QwZS00MDZkLTk2ODItYTZkZDIxODhmNjEyXkEyXkFqcGdeQXVyNjM3ODA5NzI@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "4.6/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "4.6/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "4.6",
@@ -1137,8 +817,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Best of Luck",
       "Year": "2013",
       "Rated": "N/A",
@@ -1154,10 +834,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYWM1NTFhMGYtNjc2Ny00ZGMyLTg1NTEtMzkzYzQyZmEwNjFkXkEyXkFqcGdeQXVyNjE4MTE3MDY@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "5.7/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "5.7/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "5.7",
@@ -1169,8 +849,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Sardarji",
       "Year": "2015",
       "Rated": "N/A",
@@ -1186,10 +866,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYjVlMDdmYTYtYWY0OS00OGVjLTlmZjAtMGNlZjdjYmM3N2RiXkEyXkFqcGdeQXVyNjE4MTE3MDY@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.2/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "6.2/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "6.2",
@@ -1201,8 +881,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Nanak Dukhiya Sub Sansar",
       "Year": "1970",
       "Rated": "N/A",
@@ -1218,10 +898,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNmE2OWViNDMtNWMxNi00NmZiLTkxYTktMzBlNDRmODQzMjM1XkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.5/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "8.5/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "8.5",
@@ -1233,8 +913,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Ishq Brandy",
       "Year": "2014",
       "Rated": "N/A",
@@ -1250,10 +930,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDI4YTQ5ZWYtYmYwMS00NDY4LThjZTQtODlkY2QzYjFlZWFjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "5.3/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "5.3/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "5.3",
@@ -1265,8 +945,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Viyah 70 Km",
       "Year": "2013",
       "Rated": "N/A",
@@ -1282,10 +962,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2EzZTE4ZDktMGI0OC00MjM2LTg2MDQtYjFhMTg3MjA4ZDY2XkEyXkFqcGdeQXVyNDkyMjY1NzI@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "5.8/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "5.8/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "5.8",
@@ -1297,8 +977,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Jatt James Bond",
       "Year": "2014",
       "Rated": "Not Rated",
@@ -1314,10 +994,10 @@
       "Awards": "3 wins",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOWVmNjQ2YmYtY2M4ZS00NDdkLTljZmUtYTZkNmNjM2FhMWU3XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.7/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "6.7/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "6.7",
@@ -1329,8 +1009,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Bambukat",
       "Year": "2016",
       "Rated": "N/A",
@@ -1346,10 +1026,10 @@
       "Awards": "5 wins",
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2I3ZWEzMTMtN2U4Yi00ZDVmLWEwYmQtYmZhYjcxMzYyOTYzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.6/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "7.6/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "7.6",
@@ -1361,8 +1041,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Kankan De Ohle",
       "Year": "1970",
       "Rated": "N/A",
@@ -1378,10 +1058,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZjM4NDBjYTAtNzUzOS00MWRiLWI3N2MtYmNlOTgwNjI5YWFlXkEyXkFqcGdeQXVyMjUxNjcxMjU@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.6/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "8.6/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "8.6",
@@ -1393,40 +1073,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
-      "Title": "Sardaarji 2",
-      "Year": "2016",
-      "Rated": "N/A",
-      "Released": "24 Jun 2016",
-      "Runtime": "145 min",
-      "Genre": "Adventure, Comedy",
-      "Director": "Rohit Jugraj",
-      "Writer": "Jatinder-Lall, Surmeet Maavi, Dheeraj Rattan",
-      "Actors": "Sonam Bajwa, Gurpreet Bal, Paul Barbara",
-      "Plot": "A short-tempered farmer exiled in Australia must raise a large sum of money before he can return to his village.",
-      "Language": "Punjabi",
-      "Country": "Australia, India",
-      "Awards": "1 win",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA2ZjM1YTYtOWZkNS00YzcyLTk1YmMtMGNkYjY0YjNlMzQyXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "5.2/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "5.2",
-      "imdbVotes": "683",
-      "imdbID": "tt5701172",
-      "Type": "movie",
-      "DVD": "15 Oct 2017",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Dulla Bhatti Wala",
       "Year": "2016",
       "Rated": "N/A",
@@ -1442,10 +1090,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYWQwMTQ4MGUtMDRmMS00ZTQ4LTg4ZGUtMDUwODA3ZDliMDhhXkEyXkFqcGdeQXVyNjc3MjUwNzc@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "4.8/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "4.8/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "4.8",
@@ -1457,8 +1105,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Channo Kamli Yaar Di",
       "Year": "2016",
       "Rated": "N/A",
@@ -1474,10 +1122,10 @@
       "Awards": "2 wins",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTU3NjcwMmYtMTRkZC00ZGE5LTk1MWQtZDNkY2QzZWNkZDg1XkEyXkFqcGdeQXVyNjQ2ODg2MDg@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "5.7/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "5.7/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "5.7",
@@ -1489,8 +1137,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Mera Pind: My Home",
       "Year": "2008",
       "Rated": "TV-PG",
@@ -1506,10 +1154,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZjFmNjAxYWItYjY3MS00NWM4LWJlZDMtYjc5MTY3NWE4YmU1XkEyXkFqcGdeQXVyMjUxNjcxMjU@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.7/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "6.7/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "6.7",
@@ -1521,8 +1169,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Asa Nu Maan Watna Da: In Search of Our Roots",
       "Year": "2004",
       "Rated": "N/A",
@@ -1538,10 +1186,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMWZiYWI1YWMtMDA2MC00YzE4LTg2NzYtNDQ3ZjJhMjg0ZTAzXkEyXkFqcGdeQXVyMjUxNjcxMjU@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.4/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "6.4/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "6.4",
@@ -1553,8 +1201,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Mahaul Theek Hai",
       "Year": "1999",
       "Rated": "N/A",
@@ -1570,10 +1218,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMWRhY2Q2M2MtNWQzYy00MDdmLTg3NjktNmE2NWY0MmNiM2FmXkEyXkFqcGdeQXVyMjUxNjcxMjU@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.9/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "7.9/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "7.9",
@@ -1585,8 +1233,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Dukh Bhanjan Tera Naam",
       "Year": "1974",
       "Rated": "N/A",
@@ -1602,10 +1250,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2E5MDE1M2QtNDliNi00ODUwLWJmZTItZWQ2ZjA3NGU5MTA0XkEyXkFqcGdeQXVyMjUxNjcxMjU@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.3/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "7.3/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "7.3",
@@ -1617,8 +1265,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Mel Karade Rabba",
       "Year": "2010",
       "Rated": "N/A",
@@ -1634,10 +1282,10 @@
       "Awards": "1 win",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMWY3NDFjNWEtZjExOC00MTg0LTljNmYtYjc2NjhlMzQ1NjE4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.2/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "7.2/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "7.2",
@@ -1649,8 +1297,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Yaar Anmulle",
       "Year": "2011",
       "Rated": "Not Rated",
@@ -1666,10 +1314,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODZlZDI4ODUtNGU2MC00N2MyLThlYTgtYzQ1YWViYmVmODI3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.4/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "7.4/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "7.4",
@@ -1681,8 +1329,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Mr. & Mrs. 420",
       "Year": "2014",
       "Rated": "N/A",
@@ -1698,10 +1346,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZGI2NWYyZjItYmIyMy00NmRjLWE5NzQtOTQ3NmIwZDhkNWU0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.2/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "7.2/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "7.2",
@@ -1713,40 +1361,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
-      "Title": "Ardaas",
-      "Year": "2016",
-      "Rated": "N/A",
-      "Released": "11 Mar 2016",
-      "Runtime": "135 min",
-      "Genre": "Drama",
-      "Director": "Gippy Grewal",
-      "Writer": "Gippy Grewal, Rana Ranbir",
-      "Actors": "Gurpreet Ghuggi, Ammy Virk, Rana Ranbir",
-      "Plot": "A story about how people in a village deal with everyday problems in Punjab and learn how to live.",
-      "Language": "Punjabi",
-      "Country": "India",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjU5ZjVmZDEtYmQyMC00Yzk5LWI2MjItMTBmZmI1MGJjZmQ3XkEyXkFqcGdeQXVyNjU5OTYwOTE@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.3/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "8.3",
-      "imdbVotes": "1,665",
-      "imdbID": "tt5565670",
-      "Type": "movie",
-      "DVD": "05 Jun 2020",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Ronde Sare Vyah Picho",
       "Year": "2013",
       "Rated": "N/A",
@@ -1762,10 +1378,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODZlMjcxYzAtNTE3YS00ZDA2LTgzODUtNzE5MWJhYTE4NjNhXkEyXkFqcGdeQXVyNjE4MTE3MDY@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.7/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "6.7/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "6.7",
@@ -1777,8 +1393,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Shaheed-E-Mohabbat Boota Singh",
       "Year": "1999",
       "Rated": "N/A",
@@ -1794,10 +1410,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjFjYTNkMjMtMmY2NS00YjEyLTkzYTAtMTYwYzhkNTQ1OWQ2XkEyXkFqcGdeQXVyMjUxNjcxMjU@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.3/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "8.3/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "8.3",
@@ -1809,8 +1425,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Long Da Lishkara",
       "Year": "1983",
       "Rated": "N/A",
@@ -1826,10 +1442,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZmQ0NjlhMmItNTU5OS00M2JkLWIyZTEtOTlmMmFlNDc4MjdiXkEyXkFqcGdeQXVyMjUxNjcxMjU@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.7/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "8.7/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "8.7",
@@ -1841,8 +1457,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Dil Vil Pyaar Vyaar",
       "Year": "2014",
       "Rated": "N/A",
@@ -1858,10 +1474,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZjVlMGViZWEtYWVhZi00MjZmLTk0ODktMmJkNzBmY2M1ODVhXkEyXkFqcGdeQXVyNjg1ODU5MzI@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.5/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "6.5/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "6.5",
@@ -1873,40 +1489,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
-      "Title": "Ambarsariya",
-      "Year": "2016",
-      "Rated": "N/A",
-      "Released": "25 Mar 2016",
-      "Runtime": "140 min",
-      "Genre": "Action, Comedy, Family",
-      "Director": "Mandeep Kumar",
-      "Writer": "Surmeet Maavi, Dheeraj Rattan, Balraj Syal",
-      "Actors": "Diljit Dosanjh, Monica Gill, Navneet Kaur Dhillon",
-      "Plot": "A secret agent who is posing as an insurance salesman tries to find an assassin, while also trying to juggle three women.",
-      "Language": "Punjabi",
-      "Country": "India",
-      "Awards": "1 win",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZmExYTBmODAtNmUxNy00MzI3LTlkN2UtNjA5OTFjNWRlOGQ4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.0/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "7.0",
-      "imdbVotes": "930",
-      "imdbID": "tt5565818",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Des Hoyaa Pardes",
       "Year": "2004",
       "Rated": "N/A",
@@ -1922,10 +1506,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzUyNDEyMWEtOTMwMi00YzUwLWE2NjQtNTE0MzdlNjVmNGFiXkEyXkFqcGdeQXVyMjUxNjcxMjU@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.1/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "8.1/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "8.1",
@@ -1937,8 +1521,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Qurbani Jatt Di",
       "Year": "1990",
       "Rated": "N/A",
@@ -1954,10 +1538,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMzQwNTJkZTMtNDAyOS00NjVlLWI5ZWUtODU1ZDk1OWJhZWM1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.4/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "7.4/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "7.4",
@@ -1969,8 +1553,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Pratigya",
       "Year": "1995",
       "Rated": "N/A",
@@ -1986,10 +1570,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYzg0N2NhOTUtMjIxZS00MDkyLTgyMzgtODFmOTM3YmI2ZjE3XkEyXkFqcGdeQXVyODQwMDcwNDY@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.0/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "7.0/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "7.0",
@@ -2001,8 +1585,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Shareek",
       "Year": "2015",
       "Rated": "Not Rated",
@@ -2018,10 +1602,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZDA3ZWVhMjQtYTFhNC00NjNmLTg2MmYtNmMxMmE5ODI4OWFlXkEyXkFqcGdeQXVyMzY1MTkwMDM@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.4/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "7.4/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "7.4",
@@ -2033,8 +1617,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "25 Kille",
       "Year": "2016",
       "Rated": "N/A",
@@ -2050,10 +1634,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMzAyODM3YmQtY2VmNy00MzBhLWEyZmYtYjliMGYwNzc5OTU4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "5.9/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "5.9/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "5.9",
@@ -2065,8 +1649,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Heer Ranjha: A True Love Story",
       "Year": "2009",
       "Rated": "Not Rated",
@@ -2082,10 +1666,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjIxMTg2NjYzMl5BMl5BanBnXkFtZTgwMzc0NDA2MDE@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.0/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "7.0/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "7.0",
@@ -2097,8 +1681,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Jatt Boys Putt Jattan De",
       "Year": "2013",
       "Rated": "N/A",
@@ -2114,10 +1698,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2E1MDQ1YzQtMjY0YS00NTM2LWFjNTEtMjM4OWRlZjY1YTRmXkEyXkFqcGdeQXVyMzY1MTkwMDM@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.1/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "6.1/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "6.1",
@@ -2129,8 +1713,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Hawayein",
       "Year": "2003",
       "Rated": "N/A",
@@ -2146,10 +1730,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZDNiYTVlMTAtZGQzNy00ZGYzLThjNzQtMTM3MGNhMzY1NjQ5XkEyXkFqcGdeQXVyMzI3NjQxOTI@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.2/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "7.2/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "7.2",
@@ -2161,8 +1745,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Ekam: Son of Soil",
       "Year": "2010",
       "Rated": "N/A",
@@ -2178,10 +1762,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNTU5YzMxZTQtNzFjMC00MDNlLWE3NGItZWFjNjRkOWU4NGIxXkEyXkFqcGdeQXVyMjUxNjcxMjU@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.3/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "6.3/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "6.3",
@@ -2193,8 +1777,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Desi Romeos",
       "Year": "2012",
       "Rated": "N/A",
@@ -2210,10 +1794,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTBlODVmN2UtMjFkNS00NzY3LTlmYjMtZjAwZDI1MTQ1Yjg1XkEyXkFqcGdeQXVyMjUxNjcxMjU@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "4.7/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "4.7/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "4.7",
@@ -2225,8 +1809,8 @@
       "Production": "Independent Bollywood",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Dil Apna Punjabi",
       "Year": "2006",
       "Rated": "N/A",
@@ -2242,10 +1826,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZGQ3MzMzNGUtZDFjYy00Y2JkLTg0OTgtY2QyNmE0ZjQ5ODI2XkEyXkFqcGdeQXVyMjUxNjcxMjU@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.7/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "6.7/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "6.7",
@@ -2257,8 +1841,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Faraar",
       "Year": "2015",
       "Rated": "Not Rated",
@@ -2274,10 +1858,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYmYwZmQ5NGUtNjk5Zi00YTY2LTk1MGItMmQ4NmUxM2FhY2IzXkEyXkFqcGdeQXVyNTE4ODU0NzA@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "5.3/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "5.3/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "5.3",
@@ -2289,8 +1873,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Sawa Lakh Se Ek Ladaun",
       "Year": "1976",
       "Rated": "N/A",
@@ -2306,10 +1890,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDlkMzk1YjEtZGM2My00NDgyLTk1MWYtZDY2ZDZlMTFkOTIwXkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.5/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "7.5/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "7.5",
@@ -2321,8 +1905,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Tera Mera Ki Rishta",
       "Year": "2009",
       "Rated": "Not Rated",
@@ -2338,10 +1922,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYzAyOTU2YmYtMzhhYy00NzBiLTg1YzctZmUyNWU5ZDUzNmFhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.9/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "6.9/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "6.9",
@@ -2353,8 +1937,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Hero Naam Yaad Rakhi",
       "Year": "2015",
       "Rated": "Not Rated",
@@ -2370,10 +1954,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZjNjMTE4ZmQtMTliYy00ZDkzLTlhZTktNjEzYTk3ZWRjOTE5XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "5.5/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "5.5/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "5.5",
@@ -2385,8 +1969,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Jatt Airways",
       "Year": "2013",
       "Rated": "N/A",
@@ -2402,10 +1986,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMzEyNzI0MGUtYTExNi00NmE1LWFlMzYtMGYzM2IxNmMzMDUzXkEyXkFqcGdeQXVyMzA3MDU4MTk@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "4.4/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "4.4/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "4.4",
@@ -2417,8 +2001,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Oh My Pyo!",
       "Year": "2014",
       "Rated": "N/A",
@@ -2434,10 +2018,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BN2FhODcwODYtNWMyMC00ZGUyLTkyNTEtNTI5Y2E2OGU1OGRjXkEyXkFqcGdeQXVyMjUxNjcxMjU@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "5.5/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "5.5/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "5.5",
@@ -2449,8 +2033,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Jatts in Golmaal",
       "Year": "2013",
       "Rated": "Not Rated",
@@ -2466,10 +2050,10 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjJiZmZjOWItMjBiOS00OThjLWJlMmItOTNiZDg3NzNmMjc3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.3/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "6.3/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "6.3",
@@ -2481,72 +2065,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
-      "Title": "Manje Bistre",
-      "Year": "2017",
-      "Rated": "N/A",
-      "Released": "14 Apr 2017",
-      "Runtime": "137 min",
-      "Genre": "Comedy, Drama",
-      "Director": "Baljit Singh Deo",
-      "Writer": "Gippy Grewal, Rana Ranbir",
-      "Actors": "Gippy Grewal, Sonam Bajwa, Karamjit Anmol",
-      "Plot": "While getting prepared for his sister's wedding, a young man attempts to woo a girl whose marriage to another man has already been fixed.",
-      "Language": "Punjabi",
-      "Country": "India",
-      "Awards": "1 win & 3 nominations",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODE4YWNmMjMtNDQxYy00ZWY1LWJmYmMtN2M4NzdiYjg5NmE4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.5/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "6.5",
-      "imdbVotes": "1,053",
-      "imdbID": "tt6705612",
-      "Type": "movie",
-      "DVD": "11 Aug 2017",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    {
-      "Title": "Nikka Zaildar",
-      "Year": "2016",
-      "Rated": "N/A",
-      "Released": "30 Sep 2016",
-      "Runtime": "134 min",
-      "Genre": "Comedy, Drama, Romance",
-      "Director": "Simerjit Singh",
-      "Writer": "Jagdeep Sidhu",
-      "Actors": "Ammy Virk, Sonam Bajwa, Karamjit Anmol",
-      "Plot": "A young man concocts a scheme to marry a reluctant fellow student, but finds the task more difficult than it first appeared.",
-      "Language": "Punjabi",
-      "Country": "India",
-      "Awards": "1 win",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYmU1MGRlNGUtMjVlMC00YzBmLWJlMzktYmY5MjJkM2JiZjlhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.4/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "7.4",
-      "imdbVotes": "1,225",
-      "imdbID": "tt6047120",
-      "Type": "movie",
-      "DVD": "17 Jul 2020",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    {
+  },
+  {
       "Title": "Super Singh",
       "Year": "2017",
       "Rated": "N/A",
@@ -2562,10 +2082,10 @@
       "Awards": "2 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BM2EwMjEyYjgtYmU4OC00NmM4LWEyYzktODUxZTFlOWRjNDQ1XkEyXkFqcGdeQXVyNDY2ODEyMw@@._V1_SX300.jpg",
       "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "5.8/10"
-        }
+          {
+              "Source": "Internet Movie Database",
+              "Value": "5.8/10"
+          }
       ],
       "Metascore": "N/A",
       "imdbRating": "5.8",
@@ -2577,37 +2097,5 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    },
-    {
-      "Title": "Jindua",
-      "Year": "2017",
-      "Rated": "N/A",
-      "Released": "17 Mar 2017",
-      "Runtime": "136 min",
-      "Genre": "Family",
-      "Director": "Navaniat Singh",
-      "Writer": "Dheeraj Rattan",
-      "Actors": "Jimmy Shergill, Sargun Mehta, Neeru Bajwa",
-      "Plot": "In Calgary, a young Indian man attempts to gain citizenship by marrying a woman wanting to be a rock star while harboring feelings for the girl next door.",
-      "Language": "Punjabi",
-      "Country": "India",
-      "Awards": "2 nominations",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYWE5ZTA1MGYtMGRjNy00NWYxLWFmNTEtNTQ5MDFjYWQ2MzY2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjI4NjcyNjU@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.3/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "6.3",
-      "imdbVotes": "327",
-      "imdbID": "tt5917052",
-      "Type": "movie",
-      "DVD": "01 Dec 2019",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    }
-  ]
+  }
+]
